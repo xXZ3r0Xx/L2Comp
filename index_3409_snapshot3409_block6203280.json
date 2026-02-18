@@ -1,0 +1,519 @@
+{
+  "ok": true,
+  "chainId": 3409,
+  "rpcLabel": "snapshot3409",
+  "block": 6203280,
+  "fromBlock": 0,
+  "rpcUrl": "http://localhost:8545",
+  "resolutions": [
+    {
+      "input": "MATRIX",
+      "normalized": "MATRIX",
+      "candidates": [
+        {
+          "token_contract": "0x2044682dad187456af1eee1b4e02bbf0a9abc919",
+          "token_symbol": "$MATRIX",
+          "token_name": "Matrix Frog",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x5608aaf5c0dbebc470d959928fadda2477b0e42a",
+          "token_symbol": "$MATRIX",
+          "token_name": "Matrix Frog Reloaded",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xca3d1a97459e941216f487303423aaa0254bc41a",
+          "token_symbol": "$MATRIX",
+          "token_name": "MATRIX",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xd018c5f496e34162073f39b58a9b17e281b1fa0c",
+          "token_symbol": "$MATRIX",
+          "token_name": "Matrix Frog",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x2044682dad187456af1eee1b4e02bbf0a9abc919"
+    },
+    {
+      "input": "INS",
+      "normalized": "INS",
+      "candidates": [
+        {
+          "token_contract": "0xc215f6741e8b3afca803d97a6a021e2cd3980020",
+          "token_symbol": "$INS",
+          "token_name": "INSIDERS",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0xc215f6741e8b3afca803d97a6a021e2cd3980020"
+    },
+    {
+      "input": "PXRP",
+      "normalized": "PXRP",
+      "candidates": [
+        {
+          "token_contract": "0x050f3065400f55d68a46ba187ef78b9ae6e8d088",
+          "token_symbol": "$PXRP",
+          "token_name": "Pepu XRP",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x83cff38124af21438765db34b25672518673fb38",
+          "token_symbol": "$PXRP",
+          "token_name": "PEPU XRP",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x050f3065400f55d68a46ba187ef78b9ae6e8d088"
+    },
+    {
+      "input": "PBTC",
+      "normalized": "PBTC",
+      "candidates": [
+        {
+          "token_contract": "0x73d070ec589d9f889fdf3b16fb1b828cecef320b",
+          "token_symbol": "PBTC",
+          "token_name": "PepeBitcoin",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x7f756b3c9c06f5d3f8b73b4f8d776c8dd917e8ac",
+          "token_symbol": "PBTC",
+          "token_name": "PepeBitcoin",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x994131bc070cbe465ac083c314eaac46023bbdce",
+          "token_symbol": "PBTC",
+          "token_name": "PepeBitcoin",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x73d070ec589d9f889fdf3b16fb1b828cecef320b"
+    },
+    {
+      "input": "MRGNBUU",
+      "normalized": "MRGNBUU",
+      "candidates": [
+        {
+          "token_contract": "0x1735e2ee18196ff859098ce61a7b3ec344ae3424",
+          "token_symbol": "MRGNBUU",
+          "token_name": "Margin Buu Coin",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x2d359de44cbc5de825a79cf522977b7fcc6244f9",
+          "token_symbol": "MRGNBUU",
+          "token_name": "Margin Buu Coin",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x62aea4f3a94f9d8713ef718a60926da609cb3cb5",
+          "token_symbol": "$MRGNBUU",
+          "token_name": "Margin Buu Coin",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x832a862567e9534880c4937902d1b54d1fef9daa",
+          "token_symbol": "MRGNBUU",
+          "token_name": "Margin Buu Coin",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xff5c457040179bc14200f194986b7fecacd9d7dd",
+          "token_symbol": "$MRGNBUU",
+          "token_name": "$MRGNBUU",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x1735e2ee18196ff859098ce61a7b3ec344ae3424"
+    },
+    {
+      "input": "GRX",
+      "normalized": "GRX",
+      "candidates": [
+        {
+          "token_contract": "0x4854d21b4bf1c54938b8ef5514f44fc9b0c0645f",
+          "token_symbol": "GRX",
+          "token_name": "GRIXOS",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x4854d21b4bf1c54938b8ef5514f44fc9b0c0645f"
+    },
+    {
+      "input": "Safe",
+      "normalized": "Safe",
+      "candidates": [
+        {
+          "token_contract": "0x808b7d50900f06f5652686f050009e225463f1cd",
+          "token_symbol": "Safe",
+          "token_name": "Safeyield Crypto Strategist",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x808b7d50900f06f5652686f050009e225463f1cd"
+    },
+    {
+      "input": "PEPEXAI",
+      "normalized": "PEPEXAI",
+      "candidates": [
+        {
+          "token_contract": "0x2f463e89856bba74be01e04afd0e1acfc9479835",
+          "token_symbol": "PEPEXAI",
+          "token_name": "PepeX-AI",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x2f463e89856bba74be01e04afd0e1acfc9479835"
+    },
+    {
+      "input": "BULL",
+      "normalized": "BULL",
+      "candidates": [
+        {
+          "token_contract": "0x83f2e468f55798d231fb5b20e2c7c6f10553c118",
+          "token_symbol": "$BULL",
+          "token_name": "Bulldog",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xdd4986bce44e40d914101a4769a41e8116258c10",
+          "token_symbol": "BULL",
+          "token_name": "Sick Buffalo DAO",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0xdd4986bce44e40d914101a4769a41e8116258c10"
+    },
+    {
+      "input": "DOPE",
+      "normalized": "DOPE",
+      "candidates": [
+        {
+          "token_contract": "0x4c61f43a8f38151474903384ad2247c7ea0d62fe",
+          "token_symbol": "Dope",
+          "token_name": "DOPE Final Version",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xe131759dcc4baf5e87b8715f3f996bb2757bbf0e",
+          "token_symbol": "DOPE",
+          "token_name": "GANJA",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xe1fbb54a106928ae18936b55247bbd107e47ad49",
+          "token_symbol": "DOPE",
+          "token_name": "Dopeium",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xe5356f12d30bb3ab0e69e4dca6abc9aa6053cd6e",
+          "token_symbol": "DOPE",
+          "token_name": "DogePepe",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x4c61f43a8f38151474903384ad2247c7ea0d62fe"
+    },
+    {
+      "input": "FINPEPE",
+      "normalized": "FINPEPE",
+      "candidates": [
+        {
+          "token_contract": "0xf42afb01a4a981fa542076d1821a3f6704462ecf",
+          "token_symbol": "FINPEPE",
+          "token_name": "Finnish Pepe",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0xf42afb01a4a981fa542076d1821a3f6704462ecf"
+    },
+    {
+      "input": "LUXURIOUS",
+      "normalized": "LUXURIOUS",
+      "candidates": [
+        {
+          "token_contract": "0x3b71efd7a1d6bea1910dcb3c6e9c760d493762e1",
+          "token_symbol": "LUXURIOUS",
+          "token_name": "Big Crypto Bull",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x5c4c9ecaa345d309de98f1277f809b50747fc809",
+          "token_symbol": "LUXURIOUS",
+          "token_name": "Big Crypto Bull",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x3b71efd7a1d6bea1910dcb3c6e9c760d493762e1"
+    },
+    {
+      "input": "HoRa",
+      "normalized": "HoRa",
+      "candidates": [
+        {
+          "token_contract": "0x40cb1755a9cc445b1413f6dd9b55bfcd8ea3bc94",
+          "token_symbol": "HoRa",
+          "token_name": "HolderRadar",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x40cb1755a9cc445b1413f6dd9b55bfcd8ea3bc94"
+    },
+    {
+      "input": "FZLA",
+      "normalized": "FZLA",
+      "candidates": [
+        {
+          "token_contract": "0xa1ab0992ff06ddd41635bde5b53c3b61fd95f81f",
+          "token_symbol": "$FZLA",
+          "token_name": "FROGZILLA",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0xa1ab0992ff06ddd41635bde5b53c3b61fd95f81f"
+    },
+    {
+      "input": "ESCAPE",
+      "normalized": "ESCAPE",
+      "candidates": [
+        {
+          "token_contract": "0x7466afccb7903d93fe0ed7a1ea308c7b6f5560ee",
+          "token_symbol": "ESCAPE",
+          "token_name": "ESCAPE",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0x94948b4800870b4ec877f75e391d04c10f2b1c28",
+          "token_symbol": "ESCAPE",
+          "token_name": "ESCAPE",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x7466afccb7903d93fe0ed7a1ea308c7b6f5560ee"
+    },
+    {
+      "input": "PLOUNGE",
+      "normalized": "PLOUNGE",
+      "candidates": [
+        {
+          "token_contract": "0x0e26f8861a53506a6395004360306d63b9b85f45",
+          "token_symbol": "$PLOUNGE",
+          "token_name": "Pepe's Lounge",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x0e26f8861a53506a6395004360306d63b9b85f45"
+    },
+    {
+      "input": "HOTDOG",
+      "normalized": "HOTDOG",
+      "candidates": [
+        {
+          "token_contract": "0xfde1ef4256ea00e146cd736d7ef48ad92fbcab4b",
+          "token_symbol": "HotDog",
+          "token_name": "HotDog",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0xfde1ef4256ea00e146cd736d7ef48ad92fbcab4b"
+    },
+    {
+      "input": "DOT",
+      "normalized": "DOT",
+      "candidates": [
+        {
+          "token_contract": "0x1ea511e99d3cdf79f794bf1bcabe91fcc2a1aa9a",
+          "token_symbol": "Dot",
+          "token_name": ".",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xdf7452d93f24ebddcc004b949e0ec1c021803a14",
+          "token_symbol": "$DOT",
+          "token_name": "DotPointDot",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x1ea511e99d3cdf79f794bf1bcabe91fcc2a1aa9a"
+    },
+    {
+      "input": "777",
+      "normalized": "777",
+      "candidates": [
+        {
+          "token_contract": "0x259084723b73ab20f015c2d3bf23e50e94eae4e1",
+          "token_symbol": "777",
+          "token_name": "Pepe's Lounge 777",
+          "token_decimals": 18
+        },
+        {
+          "token_contract": "0xb029f69e382c9d55eb24ad924a52e74cb7079a91",
+          "token_symbol": "$777",
+          "token_name": "$777",
+          "token_decimals": 18
+        }
+      ],
+      "best_guess": "0x259084723b73ab20f015c2d3bf23e50e94eae4e1"
+    }
+  ],
+  "chosen": [
+    {
+      "token_contract": "0x2044682dad187456af1eee1b4e02bbf0a9abc919",
+      "token_symbol": "$MATRIX",
+      "token_name": "Matrix Frog",
+      "token_decimals": 18,
+      "input_symbol": "MATRIX",
+      "normalized": "MATRIX"
+    },
+    {
+      "token_contract": "0xc215f6741e8b3afca803d97a6a021e2cd3980020",
+      "token_symbol": "$INS",
+      "token_name": "INSIDERS",
+      "token_decimals": 18,
+      "input_symbol": "INS",
+      "normalized": "INS"
+    },
+    {
+      "token_contract": "0x050f3065400f55d68a46ba187ef78b9ae6e8d088",
+      "token_symbol": "$PXRP",
+      "token_name": "Pepu XRP",
+      "token_decimals": 18,
+      "input_symbol": "PXRP",
+      "normalized": "PXRP"
+    },
+    {
+      "token_contract": "0x73d070ec589d9f889fdf3b16fb1b828cecef320b",
+      "token_symbol": "PBTC",
+      "token_name": "PepeBitcoin",
+      "token_decimals": 18,
+      "input_symbol": "PBTC",
+      "normalized": "PBTC"
+    },
+    {
+      "token_contract": "0x62aea4f3a94f9d8713ef718a60926da609cb3cb5",
+      "token_symbol": "MRGNBUU",
+      "token_name": "Margin Buu Coin",
+      "token_decimals": 18,
+      "input_symbol": "MRGNBUU",
+      "normalized": "MRGNBUU"
+    },
+    {
+      "token_contract": "0x4854d21b4bf1c54938b8ef5514f44fc9b0c0645f",
+      "token_symbol": "GRX",
+      "token_name": "GRIXOS",
+      "token_decimals": 18,
+      "input_symbol": "GRX",
+      "normalized": "GRX"
+    },
+    {
+      "token_contract": "0x808b7d50900f06f5652686f050009e225463f1cd",
+      "token_symbol": "Safe",
+      "token_name": "Safeyield Crypto Strategist",
+      "token_decimals": 18,
+      "input_symbol": "Safe",
+      "normalized": "Safe"
+    },
+    {
+      "token_contract": "0x2f463e89856bba74be01e04afd0e1acfc9479835",
+      "token_symbol": "PEPEXAI",
+      "token_name": "PepeX-AI",
+      "token_decimals": 18,
+      "input_symbol": "PEPEXAI",
+      "normalized": "PEPEXAI"
+    },
+    {
+      "token_contract": "0xdd4986bce44e40d914101a4769a41e8116258c10",
+      "token_symbol": "BULL",
+      "token_name": "Sick Buffalo DAO",
+      "token_decimals": 18,
+      "input_symbol": "BULL",
+      "normalized": "BULL"
+    },
+    {
+      "token_contract": "0x4c61f43a8f38151474903384ad2247c7ea0d62fe",
+      "token_symbol": "Dope",
+      "token_name": "DOPE Final Version",
+      "token_decimals": 18,
+      "input_symbol": "DOPE",
+      "normalized": "DOPE"
+    },
+    {
+      "token_contract": "0xf42afb01a4a981fa542076d1821a3f6704462ecf",
+      "token_symbol": "FINPEPE",
+      "token_name": "Finnish Pepe",
+      "token_decimals": 18,
+      "input_symbol": "FINPEPE",
+      "normalized": "FINPEPE"
+    },
+    {
+      "token_contract": "0x3b71efd7a1d6bea1910dcb3c6e9c760d493762e1",
+      "token_symbol": "LUXURIOUS",
+      "token_name": "Big Crypto Bull",
+      "token_decimals": 18,
+      "input_symbol": "LUXURIOUS",
+      "normalized": "LUXURIOUS"
+    },
+    {
+      "token_contract": "0x40cb1755a9cc445b1413f6dd9b55bfcd8ea3bc94",
+      "token_symbol": "HoRa",
+      "token_name": "HolderRadar",
+      "token_decimals": 18,
+      "input_symbol": "HoRa",
+      "normalized": "HoRa"
+    },
+    {
+      "token_contract": "0xa1ab0992ff06ddd41635bde5b53c3b61fd95f81f",
+      "token_symbol": "$FZLA",
+      "token_name": "FROGZILLA",
+      "token_decimals": 18,
+      "input_symbol": "FZLA",
+      "normalized": "FZLA"
+    },
+    {
+      "token_contract": "0x7466afccb7903d93fe0ed7a1ea308c7b6f5560ee",
+      "token_symbol": "ESCAPE",
+      "token_name": "ESCAPE",
+      "token_decimals": 18,
+      "input_symbol": "ESCAPE",
+      "normalized": "ESCAPE"
+    },
+    {
+      "token_contract": "0x0e26f8861a53506a6395004360306d63b9b85f45",
+      "token_symbol": "$PLOUNGE",
+      "token_name": "Pepe's Lounge",
+      "token_decimals": 18,
+      "input_symbol": "PLOUNGE",
+      "normalized": "PLOUNGE"
+    },
+    {
+      "token_contract": "0xfde1ef4256ea00e146cd736d7ef48ad92fbcab4b",
+      "token_symbol": "HotDog",
+      "token_name": "HotDog",
+      "token_decimals": 18,
+      "input_symbol": "HOTDOG",
+      "normalized": "HOTDOG"
+    },
+    {
+      "token_contract": "0x1ea511e99d3cdf79f794bf1bcabe91fcc2a1aa9a",
+      "token_symbol": "Dot",
+      "token_name": ".",
+      "token_decimals": 18,
+      "input_symbol": "DOT",
+      "normalized": "DOT"
+    },
+    {
+      "token_contract": "0x259084723b73ab20f015c2d3bf23e50e94eae4e1",
+      "token_symbol": "777",
+      "token_name": "Pepe's Lounge 777",
+      "token_decimals": 18,
+      "input_symbol": "777",
+      "normalized": "777"
+    }
+  ]
+}

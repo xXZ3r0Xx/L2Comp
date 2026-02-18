@@ -1,0 +1,1043 @@
+{
+  "ok": true,
+  "token": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+  "symbol": "Safe",
+  "name": "Safeyield Crypto Strategist",
+  "decimals": 18,
+  "block": 6203280,
+  "fromBlock": 0,
+  "rpcUrl": "http://localhost:8545",
+  "holders_count": 145,
+  "holders": [
+    {
+      "wallet": "0x3BbF15FBaCe1c31a2aA52E2A7c26353e34CAd856",
+      "balance_raw": "296420489834345603566140946",
+      "balance": "296420489.834345603566140946",
+      "is_contract": true,
+      "holder_type": "pool",
+      "pool_type": "v3-like",
+      "pool_token0": "0x4200000000000000000000000000000000000006",
+      "pool_token1": "0x808B7d50900F06f5652686F050009E225463F1Cd"
+    },
+    {
+      "wallet": "0x5F271f21cc7B3eFDc8Ac905f12417D00A6484749",
+      "balance_raw": "57070821460789380074302640",
+      "balance": "57070821.46078938007430264",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xde844cA0B30C06CD4D12a94871A94971d5Ac77e4",
+      "balance_raw": "50000000379710446786092902",
+      "balance": "50000000.379710446786092902",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xAaF13E3B216CD1C0fdC6Fd0EA839c58a03db9506",
+      "balance_raw": "39101140000000000000000000",
+      "balance": "39101140.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x2ea5C5BBedbDCAfe0A02D76389920352076775C6",
+      "balance_raw": "31125386025538946651944054",
+      "balance": "31125386.025538946651944054",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x35D6fC28E36A01Fc82F97713eB32fB6C0f9480d5",
+      "balance_raw": "30083115545335907131468876",
+      "balance": "30083115.545335907131468876",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x4207fd1f0116A6A05EC74C2Da29c29E0EAb4D7FC",
+      "balance_raw": "29735481410092727215873361",
+      "balance": "29735481.410092727215873361",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x97Cc38a7aa6DF2352830a3Dd228047d5FaC597fa",
+      "balance_raw": "24434104741513196469375962",
+      "balance": "24434104.741513196469375962",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x3D280002140FB0BAbBC4263BaC7b6E5B7D92AC26",
+      "balance_raw": "20767901000000000000000000",
+      "balance": "20767901.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x3c88e57167EcCDb25D2558b9bdb5a345E83CE713",
+      "balance_raw": "20091635874392647211180111",
+      "balance": "20091635.874392647211180111",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x10152871F5420de5B45fe53cC6EAC10f7fA301B2",
+      "balance_raw": "15243044731720578054750533",
+      "balance": "15243044.731720578054750533",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x6ECA5Df1a4de17603330Be01761B60F558ae7ec9",
+      "balance_raw": "13996448300503661194959392",
+      "balance": "13996448.300503661194959392",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x57D68D0c68f99f7Ac5b14E69f93cf9Ae24c84186",
+      "balance_raw": "11498257691969136766321719",
+      "balance": "11498257.691969136766321719",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xB9948f72A137dB7E4A55A879BfFDDd0b8619B882",
+      "balance_raw": "10465953614751922742478606",
+      "balance": "10465953.614751922742478606",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x772c4de410769d7a8b77067c52127b1e6490B40e",
+      "balance_raw": "10382859719545473071757109",
+      "balance": "10382859.719545473071757109",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xFa90979FCE9c4f71951015652f99265654b127FA",
+      "balance_raw": "10362721860319516735206672",
+      "balance": "10362721.860319516735206672",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x995b97ff917E633d00b8065abE65a501589Bd991",
+      "balance_raw": "10358858553093751613957405",
+      "balance": "10358858.553093751613957405",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x1Ef9408Fa886C12a1e74718c529158B1C39b1787",
+      "balance_raw": "10345951720000000000000000",
+      "balance": "10345951.72",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x6da3335DBcC93D28b4e0b8102F07eCF82D960229",
+      "balance_raw": "10263954850000000000000000",
+      "balance": "10263954.85",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x2a376b1330Ea9F4c843C624383838d519F63C601",
+      "balance_raw": "10239579429492911755937200",
+      "balance": "10239579.4294929117559372",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x4F49a7a1271cABAe41136435F80ffe28C24Dc68a",
+      "balance_raw": "10214925488966922364023020",
+      "balance": "10214925.48896692236402302",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xE155498eF6b6a6D3B3618FDcebC559eC47E0C78a",
+      "balance_raw": "10182859660000000000000000",
+      "balance": "10182859.66",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xD24554F07f3E9590E527FF08BB210E123b6DCDbD",
+      "balance_raw": "10164674221146323217279537",
+      "balance": "10164674.221146323217279537",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x604e1896B0c568eC85b3218B761Aba03e675B2FB",
+      "balance_raw": "10145436290000000000000000",
+      "balance": "10145436.29",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x602B02968af060fC1c6FF15F0EB4931041ec8cD5",
+      "balance_raw": "10112265769295801706035171",
+      "balance": "10112265.769295801706035171",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9D905b8cf28D4954747e3861e2dc7d6fE174A483",
+      "balance_raw": "10079712200000000000000000",
+      "balance": "10079712.2",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x742D5384f51BF5701648B3f204964c5e6A66Ed75",
+      "balance_raw": "10072819100515803415463383",
+      "balance": "10072819.100515803415463383",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x76BFE14917e3c7E69b7b92CBcdB6aa50c407C63C",
+      "balance_raw": "10069753480000000000000000",
+      "balance": "10069753.48",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x16362a7fFA475184CD92c69b14eccBC8CEb3672b",
+      "balance_raw": "10057173000000000000000000",
+      "balance": "10057173.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x70cf4f1feaF3fF3dbE17b2b8241128Ed688467c4",
+      "balance_raw": "10044671482147165379146516",
+      "balance": "10044671.482147165379146516",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x89D9f279ec96886678228C6D52a9d6657410B427",
+      "balance_raw": "10025725710000000000000000",
+      "balance": "10025725.71",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x73eE5c98C14aF5AE3Fa990874850E192978316F4",
+      "balance_raw": "10012946923409069875878631",
+      "balance": "10012946.923409069875878631",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x5F0E1cA546C37c1da37aE544160693Ea687368f1",
+      "balance_raw": "10011243000000000000000000",
+      "balance": "10011243.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x7d6708DA2BD4b9d1b0d3627c8dd6668bC8974525",
+      "balance_raw": "10005757348669614300252958",
+      "balance": "10005757.348669614300252958",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xf9957E723B7e5e21665aee1f35d8008f1a886358",
+      "balance_raw": "10005262246028812772759712",
+      "balance": "10005262.246028812772759712",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x471227e27F9580ab4e35ea59cd6500a84D9d9D67",
+      "balance_raw": "10002845203453140382556618",
+      "balance": "10002845.203453140382556618",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x694E91d2f3901c5AfCD3F2096f75cf14f5d09234",
+      "balance_raw": "10000000000000000000000000",
+      "balance": "10000000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xa7269C5e8362748C146736CA7e72CA8cc195a55A",
+      "balance_raw": "10000000000000000000000000",
+      "balance": "10000000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xf6380968701F28682ddf9Ec9e0De861C2db9E854",
+      "balance_raw": "10000000000000000000000000",
+      "balance": "10000000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x0Fb769DB071Fc19B986A1cC67a55b6f7cd3C984a",
+      "balance_raw": "9393905604277158508898109",
+      "balance": "9393905.604277158508898109",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x4C8AeceC4B56B313a0646b203210d2F13EDee63E",
+      "balance_raw": "9015859046700708805726990",
+      "balance": "9015859.04670070880572699",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x5bb215CE5Ad8c7f51c7831fbAf8B5C983ed64780",
+      "balance_raw": "7920504359493054024950012",
+      "balance": "7920504.359493054024950012",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x7A31b938cF5a03470F415b055d363F99204691B7",
+      "balance_raw": "4560945830783939135583565",
+      "balance": "4560945.830783939135583565",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xB7d82eFa7b9c9F8BeDaA7f7F2bC0baD8044455F5",
+      "balance_raw": "4416656828875962913862621",
+      "balance": "4416656.828875962913862621",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x50Cfc1C607004CF9467a3eB2dE6Ef8C307F9C081",
+      "balance_raw": "3945841556497267604172302",
+      "balance": "3945841.556497267604172302",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xB48F068138b0545cD60c6ff441d275B65A10c841",
+      "balance_raw": "3886618075431086457046689",
+      "balance": "3886618.075431086457046689",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x2670c6Dce1B60003ec91178d6C05741aaB653Ab6",
+      "balance_raw": "3105054150641036832818470",
+      "balance": "3105054.15064103683281847",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x1122c01D97D1379d7ef2cB5Db3BBee8DFc160291",
+      "balance_raw": "3004987457256692695424058",
+      "balance": "3004987.457256692695424058",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x73752EF0F576B87F25559aCb92112393dc6E1B55",
+      "balance_raw": "2947601908884272400841852",
+      "balance": "2947601.908884272400841852",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x896cB979fc8DC902812d20D5dE229958a03A781c",
+      "balance_raw": "2784441642932586754864605",
+      "balance": "2784441.642932586754864605",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x4FAE64Ac78DEad0CFeA252Da4066a2e458FdBf3c",
+      "balance_raw": "2555159233482027199160543",
+      "balance": "2555159.233482027199160543",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x1C5bB47D3a780d36C19e341C79f3b778D731D67A",
+      "balance_raw": "2500196287914864099213999",
+      "balance": "2500196.287914864099213999",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xD6D6ab80a4F826eF2ac585b5DfBA3027176FAde7",
+      "balance_raw": "2500000000000000000000000",
+      "balance": "2500000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xAbF8540C4776fd8af093Ef08EdB537Cd65ef9CED",
+      "balance_raw": "2468216861778228449828134",
+      "balance": "2468216.861778228449828134",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x3057604510B47e558f74Df6d99137cf3777b0C61",
+      "balance_raw": "2329656942623063683931749",
+      "balance": "2329656.942623063683931749",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xAbD4479f8e8aEd2CB9899B655A5EDA7951DfA0Ff",
+      "balance_raw": "2310493112793705063607720",
+      "balance": "2310493.11279370506360772",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xc32DE0d9c8F09860C23186A95BC43fFCe9F66474",
+      "balance_raw": "2256821230935540702539375",
+      "balance": "2256821.230935540702539375",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x387904cEB7b668E1DCFC7073a2d74A5069c4Be56",
+      "balance_raw": "2050002014346366091781594",
+      "balance": "2050002.014346366091781594",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x04016B8643ea4B21E7196050e2EB304B8212A563",
+      "balance_raw": "1662412411328389627139514",
+      "balance": "1662412.411328389627139514",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9adfa7556065735B6E8c7eE3BAf04eC2B9C90660",
+      "balance_raw": "1641561001253414728173870",
+      "balance": "1641561.00125341472817387",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x109c08e78144871bF25768401F1DEAd08b5235bc",
+      "balance_raw": "1640340296078487908905184",
+      "balance": "1640340.296078487908905184",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x35d04cbB7a465fc3B7A80887A19447B8A82D727D",
+      "balance_raw": "1403965682398238125370945",
+      "balance": "1403965.682398238125370945",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x38ce147671E848fF2dEfDe7269Bc1fA8e42E420b",
+      "balance_raw": "1196055250663824795575840",
+      "balance": "1196055.25066382479557584",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x0005474458B31A71311B9f88C1B6a65612C0a5Fa",
+      "balance_raw": "1038945827242925855019178",
+      "balance": "1038945.827242925855019178",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xC0A174115510d11da4AF50cBE0C67582D15Ba407",
+      "balance_raw": "1000000137896268938203385",
+      "balance": "1000000.137896268938203385",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x3dd6c5f3308B66D5Bb0eDE41ea8916b0cAbC0Ccb",
+      "balance_raw": "940067465003960477867647",
+      "balance": "940067.465003960477867647",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xBEb17e10c9e0bd58dd6E8645B09F595329589bAb",
+      "balance_raw": "854725697056560735620394",
+      "balance": "854725.697056560735620394",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xEa558782f11a48E1518fb4391D9E9F5e192ED0F9",
+      "balance_raw": "704678994955124858078740",
+      "balance": "704678.99495512485807874",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xC6AF8fF6b28c3725059042a9b70e4eD7dAA6E89D",
+      "balance_raw": "658849296131935521221195",
+      "balance": "658849.296131935521221195",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9e6b05f3C79C2eB5E59c3cc5B9a36F406Aa03817",
+      "balance_raw": "655358833700241209971778",
+      "balance": "655358.833700241209971778",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x7C40d22a760eF4eB8c59479F4d866B7c7f0f6Df5",
+      "balance_raw": "635782195044839279545913",
+      "balance": "635782.195044839279545913",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xbE497309e34c03d52281d2d9803680f54FF6d18F",
+      "balance_raw": "563982482710647257992079",
+      "balance": "563982.482710647257992079",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x3AB8689aa2f184A327Ab5812381D3bF1bD1B6500",
+      "balance_raw": "507872748699782885053894",
+      "balance": "507872.748699782885053894",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x08D78D156f9308C8c302b01a73854B857E2DDaf4",
+      "balance_raw": "499883986305310810620146",
+      "balance": "499883.986305310810620146",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x6DcbBfB9C21BEb8f7f6cf58fa1462b59Cf8EC510",
+      "balance_raw": "475600062359154835013442",
+      "balance": "475600.062359154835013442",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xf59164fDc0e820C387a09965a9bf8709c6533c90",
+      "balance_raw": "471880967255664771692533",
+      "balance": "471880.967255664771692533",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xdb79a0a4feFC52D6358931DaB2D2626E12fc107A",
+      "balance_raw": "471506527143038177915060",
+      "balance": "471506.52714303817791506",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x04293FD787661C6DC724a736b32FEAA6e435eA42",
+      "balance_raw": "469217502665827434647793",
+      "balance": "469217.502665827434647793",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xFD59A7d8B9AF3DDf1E84F3C41B3dA8DB141553d3",
+      "balance_raw": "442515700198633895014799",
+      "balance": "442515.700198633895014799",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x7aC101633B925c659690fE24F949Bf91A5D3a355",
+      "balance_raw": "419056251594126258185399",
+      "balance": "419056.251594126258185399",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x04B5729607458493c4bD111C9fFF64629214a25b",
+      "balance_raw": "329261124698878266347650",
+      "balance": "329261.12469887826634765",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x107B0fdA5b50B178bF875E59Ca86a786Ae1B2C4D",
+      "balance_raw": "313487149774328579267981",
+      "balance": "313487.149774328579267981",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xBeAd89Fd709A30307AB998Bab59f751540114042",
+      "balance_raw": "300000000000000000000000",
+      "balance": "300000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x20D654bB984A6fc4bFd4a05b34987f665888a612",
+      "balance_raw": "275839707161819748987145",
+      "balance": "275839.707161819748987145",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x5D33Ac4aA86a5726ABfd9cEF1287964ee8e50A87",
+      "balance_raw": "261512708345635731124300",
+      "balance": "261512.7083456357311243",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9b2966454FA48F49cDE589DB2bb4cE60A4355E88",
+      "balance_raw": "223058451705417030825100",
+      "balance": "223058.4517054170308251",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xEeABfF0205eDE085F63A382fC769f968C6605A13",
+      "balance_raw": "217317050033695812454554",
+      "balance": "217317.050033695812454554",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x3acc3EeF6e8Aaa06230078a53C4F27A6C3D5fAE3",
+      "balance_raw": "216009154744959647669321",
+      "balance": "216009.154744959647669321",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x459fc0576357b48ecbE5c829C7686da211b7D2dC",
+      "balance_raw": "182750939475071245712756",
+      "balance": "182750.939475071245712756",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9580c6cD4A04366eF2A63D1998e05cBC20031369",
+      "balance_raw": "164483984926171536182716",
+      "balance": "164483.984926171536182716",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x0603319BfDAC9bE15736BE5AEBE5CE8825B0e810",
+      "balance_raw": "159093335545084469325609",
+      "balance": "159093.335545084469325609",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x7eB6d71E09228946e3D88F803dC8cDC3ee425729",
+      "balance_raw": "155689436490323460710015",
+      "balance": "155689.436490323460710015",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x778Ab941A316861BFF7a7A453482d252bfa522ee",
+      "balance_raw": "154901851687296142241738",
+      "balance": "154901.851687296142241738",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x23bb1E608c36854AD1a15E98a00D85d0C21B37c4",
+      "balance_raw": "141802350203820723185124",
+      "balance": "141802.350203820723185124",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9D11Bf015E97f2f6BF408e9BF1cD94c28FC32936",
+      "balance_raw": "137790308856201444356627",
+      "balance": "137790.308856201444356627",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x0BCBE0E070418550B5A06cf12e7DBA3BfC753571",
+      "balance_raw": "137025329202440996339534",
+      "balance": "137025.329202440996339534",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9182c01E78AEd0cA6D300B313Cde19D266F97AD5",
+      "balance_raw": "117818950115952303393789",
+      "balance": "117818.950115952303393789",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xaEF14A9aa2074688d7E07F2aeAb5831F4cceEF33",
+      "balance_raw": "113804107653420804052259",
+      "balance": "113804.107653420804052259",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xa218eCF63b4447A069F3e2c991e58b7D8d093006",
+      "balance_raw": "100000000000000000000000",
+      "balance": "100000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x964851BCA09Be64355175e614C34404d94c86300",
+      "balance_raw": "95599642014793483058511",
+      "balance": "95599.642014793483058511",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x242463e9db2E5Ed7E7e3B6D7dff7b7C920918cf5",
+      "balance_raw": "92234234259676732230967",
+      "balance": "92234.234259676732230967",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xc236b860E07f1B8f26C0b559FBFCC8921a4C7D5E",
+      "balance_raw": "85819290024078580782024",
+      "balance": "85819.290024078580782024",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xBE5583054E849db16C578CCC9Da9E320dEC721BA",
+      "balance_raw": "61724040730485221912994",
+      "balance": "61724.040730485221912994",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x2011d84492b5E40b3860b84463D1d2dA5a1Fe0a7",
+      "balance_raw": "55764556315981161583453",
+      "balance": "55764.556315981161583453",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x5068a059F3d246eB88f32fa7c553BF48E13910e9",
+      "balance_raw": "53731844173162844664301",
+      "balance": "53731.844173162844664301",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xE4BCE46C4a865b53a7562AC87338A99Fac314678",
+      "balance_raw": "51493051712389458658430",
+      "balance": "51493.05171238945865843",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xCA4D540D5578CC35CC22Bec51eCA8975707EC57b",
+      "balance_raw": "51091126562606630241970",
+      "balance": "51091.12656260663024197",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xf3D2CB92378270f89B584EE15065a155b39a229f",
+      "balance_raw": "40471271857581102465527",
+      "balance": "40471.271857581102465527",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x725fC918F65857E0D2B7fb64D7c8DA4ACf3057d6",
+      "balance_raw": "34029456987071015447466",
+      "balance": "34029.456987071015447466",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x16F7e7e794e61B8966D6F66cBCbdf18479f65361",
+      "balance_raw": "28172705645594334233100",
+      "balance": "28172.7056455943342331",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xa1F5820Be092135a4f68f914275a173A5Ed0CA5f",
+      "balance_raw": "26781076163234125719508",
+      "balance": "26781.076163234125719508",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x8354DD9e3a8DAa8C6875AEC0b596c19b542982dD",
+      "balance_raw": "25486133601178702502287",
+      "balance": "25486.133601178702502287",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9F8c9b27ea4854C533C5b4EB2d0d5dfcd7Ca9871",
+      "balance_raw": "16198923083920126784692",
+      "balance": "16198.923083920126784692",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x020b67B41999BfCAd2CFFCCCEef5137109d2536C",
+      "balance_raw": "15800715638314922295509",
+      "balance": "15800.715638314922295509",
+      "is_contract": true,
+      "holder_type": "contract"
+    },
+    {
+      "wallet": "0xdf5348EDA1d59Ed64358FA4c54e73fDb5437cb24",
+      "balance_raw": "15496215385045290303538",
+      "balance": "15496.215385045290303538",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xD897D3fa86bA9e79b2244cA1f8e0a3e66BC8B2D4",
+      "balance_raw": "14038359482740339315823",
+      "balance": "14038.359482740339315823",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x42b8b831FB37D713E1fd4c6D57bf0306C7510edE",
+      "balance_raw": "8075308517381127599179",
+      "balance": "8075.308517381127599179",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xB2C55859d2A61631fD433862F9F7E16d4C697b35",
+      "balance_raw": "6839582138181484730487",
+      "balance": "6839.582138181484730487",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xc5bF4Fc447f7aF4528908933A9a467146Cc3DACB",
+      "balance_raw": "5126286951113675288003",
+      "balance": "5126.286951113675288003",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xA9F04C7cA3016E45347eC92565736ff26B4ed947",
+      "balance_raw": "4189166294563025843397",
+      "balance": "4189.166294563025843397",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x312bd6e3B32B24739c9e8Bf9ccF46BEb2F85775a",
+      "balance_raw": "2385678391355863026038",
+      "balance": "2385.678391355863026038",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xe0aA9Ab4e44659328E3b893e652816444af93Cdd",
+      "balance_raw": "2000000000000000000000",
+      "balance": "2000.0",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xD4dAdbAb4b2E10BEb6FBf4E2cf2102D7a2A3E455",
+      "balance_raw": "1481270771079592186411",
+      "balance": "1481.270771079592186411",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xbF1c330207e294Eb85C570275C96c46b35e3c82B",
+      "balance_raw": "1209467811721610663100",
+      "balance": "1209.4678117216106631",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x97a9f27F9914169473576E88d01503B9C0cbd545",
+      "balance_raw": "107022475703366537779",
+      "balance": "107.022475703366537779",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xCf42e615E1C2A09d869A86A5A21237b156f29Cb2",
+      "balance_raw": "1612037906209343195",
+      "balance": "1.612037906209343195",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xE36c3C0336dbf140226088cAe99f6554c4989dE9",
+      "balance_raw": "911415417251865099",
+      "balance": "0.911415417251865099",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x40bdC93016180D2cC2F19995d0597b906b8bb073",
+      "balance_raw": "839417709982960317",
+      "balance": "0.839417709982960317",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xECBEc15D0B54D491e7dEfcF311729B78410aB672",
+      "balance_raw": "836543779832362417",
+      "balance": "0.836543779832362417",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xd76b71c0476d0E546d8924BE538C218Fb60c8386",
+      "balance_raw": "832108361447503670",
+      "balance": "0.83210836144750367",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x8A484a2Aa5F43dEa33A77F9197A88ef815d76a32",
+      "balance_raw": "710089822989559416",
+      "balance": "0.710089822989559416",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x98AceE14a10013C25b9B59F34EF1Cd7806044B1A",
+      "balance_raw": "684051617704594737",
+      "balance": "0.684051617704594737",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xFa258Af604eeeEdA7431D859dE9B259D4160053b",
+      "balance_raw": "587391457726478827",
+      "balance": "0.587391457726478827",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xCBE6BB903e5b5Ee6B65787FaEfBB1f9Db252689C",
+      "balance_raw": "512081920919674643",
+      "balance": "0.512081920919674643",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x0e050602e36077c293616A94113c60d2b893A8f1",
+      "balance_raw": "419281061620038794",
+      "balance": "0.419281061620038794",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x9edefb4D0D8c7E3e0bF620069678632837B51a27",
+      "balance_raw": "314074678943502639",
+      "balance": "0.314074678943502639",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x301ae6bf2CFfFA472076311EE403f811eA433E80",
+      "balance_raw": "43814370370209739",
+      "balance": "0.043814370370209739",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0x29FB4dc354d910e2efC23f3ECFe6781327994620",
+      "balance_raw": "1594288116",
+      "balance": "0.000000001594288116",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xfEB5f9DdcDCAEF594E4acaB975798FF9a02340f1",
+      "balance_raw": "879592316",
+      "balance": "0.000000000879592316",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xdD3D5335F4B23930D5FeEE1e0F236f68F0bD479C",
+      "balance_raw": "501550983",
+      "balance": "0.000000000501550983",
+      "is_contract": false,
+      "holder_type": "wallet"
+    },
+    {
+      "wallet": "0xa43ACFaD13C5ED079c798062DC33A414DFC2cfB5",
+      "balance_raw": "114",
+      "balance": "0.000000000000000114",
+      "is_contract": true,
+      "holder_type": "pool",
+      "pool_type": "v3-like",
+      "pool_token0": "0x4200000000000000000000000000000000000006",
+      "pool_token1": "0x808B7d50900F06f5652686F050009E225463F1Cd"
+    },
+    {
+      "wallet": "0x43233E61D04Aae49AE93a825f8679094a731E33a",
+      "balance_raw": "67",
+      "balance": "0.000000000000000067",
+      "is_contract": true,
+      "holder_type": "pool",
+      "pool_type": "v3-like",
+      "pool_token0": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+      "pool_token1": "0xfa682Ab2b317Dd0c16b2da6c14a9Df040c0810D6"
+    },
+    {
+      "wallet": "0x90D4bcc137B38ec268880Fd739005831f8177Bec",
+      "balance_raw": "26",
+      "balance": "0.000000000000000026",
+      "is_contract": true,
+      "holder_type": "contract"
+    },
+    {
+      "wallet": "0x0Db3101c66832532E61C3744FdC9b83A51c3bFde",
+      "balance_raw": "13",
+      "balance": "0.000000000000000013",
+      "is_contract": true,
+      "holder_type": "pool",
+      "pool_type": "v3-like",
+      "pool_token0": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+      "pool_token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28"
+    },
+    {
+      "wallet": "0xA356232d588643bDF0De1841b3ad7999E817F647",
+      "balance_raw": "2",
+      "balance": "0.000000000000000002",
+      "is_contract": true,
+      "holder_type": "pool",
+      "pool_type": "v3-like",
+      "pool_token0": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+      "pool_token1": "0xa3333eA43Cf8eCF93FAEbb91a470805cbda60a7A"
+    }
+  ]
+}

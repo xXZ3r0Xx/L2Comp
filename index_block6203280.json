@@ -1,0 +1,217 @@
+{
+  "ok": true,
+  "block": 6203280,
+  "fromBlock": 0,
+  "rpcUrl": "http://localhost:8545",
+  "tokens": [
+    {
+      "token_contract": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
+      "symbol_hint": "MATRIX",
+      "meta": {
+        "token_name": "Matrix Frog",
+        "token_symbol": "$MATRIX",
+        "token_decimals": 18
+      },
+      "holders_count": 524,
+      "out_file": "reports\\comp_holders_multi\\holders_MATRIX_6203280.json"
+    },
+    {
+      "token_contract": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
+      "symbol_hint": "INS",
+      "meta": {
+        "token_name": "INSIDERS",
+        "token_symbol": "$INS",
+        "token_decimals": 18
+      },
+      "holders_count": 170,
+      "out_file": "reports\\comp_holders_multi\\holders_INS_6203280.json"
+    },
+    {
+      "token_contract": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
+      "symbol_hint": "PXRP",
+      "meta": {
+        "token_name": "Pepu XRP",
+        "token_symbol": "$PXRP",
+        "token_decimals": 18
+      },
+      "holders_count": 142,
+      "out_file": "reports\\comp_holders_multi\\holders_PXRP_6203280.json"
+    },
+    {
+      "token_contract": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
+      "symbol_hint": "PBTC",
+      "meta": {
+        "token_name": "PepeBitcoin",
+        "token_symbol": "PBTC",
+        "token_decimals": 18
+      },
+      "holders_count": 205,
+      "out_file": "reports\\comp_holders_multi\\holders_PBTC_6203280.json"
+    },
+    {
+      "token_contract": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
+      "symbol_hint": "MRGNBUU",
+      "meta": {
+        "token_name": "Margin Buu Coin",
+        "token_symbol": "$MRGNBUU",
+        "token_decimals": 18
+      },
+      "holders_count": 257,
+      "out_file": "reports\\comp_holders_multi\\holders_MRGNBUU_6203280.json"
+    },
+    {
+      "token_contract": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
+      "symbol_hint": "GRX",
+      "meta": {
+        "token_name": "GRIXOS",
+        "token_symbol": "GRX",
+        "token_decimals": 18
+      },
+      "holders_count": 112,
+      "out_file": "reports\\comp_holders_multi\\holders_GRX_6203280.json"
+    },
+    {
+      "token_contract": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+      "symbol_hint": "SAFE",
+      "meta": {
+        "token_name": "Safeyield Crypto Strategist",
+        "token_symbol": "Safe",
+        "token_decimals": 18
+      },
+      "holders_count": 145,
+      "out_file": "reports\\comp_holders_multi\\holders_SAFE_6203280.json"
+    },
+    {
+      "token_contract": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
+      "symbol_hint": "PEPEXAI",
+      "meta": {
+        "token_name": "PepeX-AI",
+        "token_symbol": "PEPEXAI",
+        "token_decimals": 18
+      },
+      "holders_count": 135,
+      "out_file": "reports\\comp_holders_multi\\holders_PEPEXAI_6203280.json"
+    },
+    {
+      "token_contract": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
+      "symbol_hint": "BULL",
+      "meta": {
+        "token_name": "Sick Buffalo DAO",
+        "token_symbol": "BULL",
+        "token_decimals": 18
+      },
+      "holders_count": 148,
+      "out_file": "reports\\comp_holders_multi\\holders_BULL_6203280.json"
+    },
+    {
+      "token_contract": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
+      "symbol_hint": "DOPE",
+      "meta": {
+        "token_name": "DogePepe",
+        "token_symbol": "DOPE",
+        "token_decimals": 18
+      },
+      "holders_count": 76,
+      "out_file": "reports\\comp_holders_multi\\holders_DOPE_6203280.json"
+    },
+    {
+      "token_contract": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
+      "symbol_hint": "FINPEPE",
+      "meta": {
+        "token_name": "Finnish Pepe",
+        "token_symbol": "FINPEPE",
+        "token_decimals": 18
+      },
+      "holders_count": 116,
+      "out_file": "reports\\comp_holders_multi\\holders_FINPEPE_6203280.json"
+    },
+    {
+      "token_contract": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
+      "symbol_hint": "LUXURIOUS",
+      "meta": {
+        "token_name": "Big Crypto Bull",
+        "token_symbol": "LUXURIOUS",
+        "token_decimals": 18
+      },
+      "holders_count": 41,
+      "out_file": "reports\\comp_holders_multi\\holders_LUXURIOUS_6203280.json"
+    },
+    {
+      "token_contract": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
+      "symbol_hint": "HORA",
+      "meta": {
+        "token_name": "HolderRadar",
+        "token_symbol": "HoRa",
+        "token_decimals": 18
+      },
+      "holders_count": 182,
+      "out_file": "reports\\comp_holders_multi\\holders_HORA_6203280.json"
+    },
+    {
+      "token_contract": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
+      "symbol_hint": "FZLA",
+      "meta": {
+        "token_name": "FROGZILLA",
+        "token_symbol": "$FZLA",
+        "token_decimals": 18
+      },
+      "holders_count": 77,
+      "out_file": "reports\\comp_holders_multi\\holders_FZLA_6203280.json"
+    },
+    {
+      "token_contract": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+      "symbol_hint": "ESCAPE",
+      "meta": {
+        "token_name": "ESCAPE",
+        "token_symbol": "ESCAPE",
+        "token_decimals": 18
+      },
+      "holders_count": 768,
+      "out_file": "reports\\comp_holders_multi\\holders_ESCAPE_6203280.json"
+    },
+    {
+      "token_contract": "0x0e26f8861A53506A6395004360306d63b9B85F45",
+      "symbol_hint": "PLOUNGE",
+      "meta": {
+        "token_name": "Pepe's Lounge",
+        "token_symbol": "$PLOUNGE",
+        "token_decimals": 18
+      },
+      "holders_count": 218,
+      "out_file": "reports\\comp_holders_multi\\holders_PLOUNGE_6203280.json"
+    },
+    {
+      "token_contract": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
+      "symbol_hint": "HOTDOG",
+      "meta": {
+        "token_name": "HotDog",
+        "token_symbol": "HotDog",
+        "token_decimals": 18
+      },
+      "holders_count": 62,
+      "out_file": "reports\\comp_holders_multi\\holders_HOTDOG_6203280.json"
+    },
+    {
+      "token_contract": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
+      "symbol_hint": "DOT",
+      "meta": {
+        "token_name": "DotPointDot",
+        "token_symbol": "$DOT",
+        "token_decimals": 18
+      },
+      "holders_count": 40,
+      "out_file": "reports\\comp_holders_multi\\holders_DOT_6203280.json"
+    },
+    {
+      "token_contract": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+      "symbol_hint": "777",
+      "meta": {
+        "token_name": "$777",
+        "token_symbol": "$777",
+        "token_decimals": 18
+      },
+      "holders_count": 195,
+      "out_file": "reports\\comp_holders_multi\\holders_777_6203280.json"
+    }
+  ]
+}
