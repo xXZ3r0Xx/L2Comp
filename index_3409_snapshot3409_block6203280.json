@@ -396,7 +396,7 @@
       "normalized": "PBTC"
     },
     {
-      "token_contract": "0x62aea4f3a94f9d8713ef718a60926da609cb3cb5",
+      "token_contract": "0x1735e2ee18196ff859098ce61a7b3ec344ae3424",
       "token_symbol": "MRGNBUU",
       "token_name": "Margin Buu Coin",
       "token_decimals": 18,

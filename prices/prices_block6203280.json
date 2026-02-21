@@ -24,9 +24,9 @@
           "pool_type": "v3-like",
           "token0": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
           "token1": "0x4200000000000000000000000000000000000006",
-          "wpepu_balance_raw": "4189970880482645502852648",
-          "token_balance_raw": "611534200315304721286066068",
-          "price_wpepu_per_token": "0.003410355929298637",
+          "wpepu_balance_raw": "9404559539126445086426426",
+          "token_balance_raw": "240608894390089372517075223",
+          "price_wpepu_per_token": "0.043034286748723097",
           "price_method": "v3.slot0"
         },
         {
@@ -55,9 +55,9 @@
         "pool_type": "v3-like",
         "token0": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
         "token1": "0x4200000000000000000000000000000000000006",
-        "wpepu_balance_raw": "4189970880482645502852648",
-        "token_balance_raw": "611534200315304721286066068",
-        "price_wpepu_per_token": "0.003410355929298637",
+        "wpepu_balance_raw": "9404559539126445086426426",
+        "token_balance_raw": "240608894390089372517075223",
+        "price_wpepu_per_token": "0.043034286748723097",
         "price_method": "v3.slot0"
       }
     },
@@ -75,9 +75,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
-          "wpepu_balance_raw": "1494223412528741212979233",
-          "token_balance_raw": "931105880940160246397744636",
-          "price_wpepu_per_token": "0.000760800980586804",
+          "wpepu_balance_raw": "10434741039541961256452108",
+          "token_balance_raw": "185023337029809416284897624",
+          "price_wpepu_per_token": "0.071963804954791187",
           "price_method": "v3.slot0"
         },
         {
@@ -96,9 +96,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
-        "wpepu_balance_raw": "1494223412528741212979233",
-        "token_balance_raw": "931105880940160246397744636",
-        "price_wpepu_per_token": "0.000760800980586804",
+        "wpepu_balance_raw": "10434741039541961256452108",
+        "token_balance_raw": "185023337029809416284897624",
+        "price_wpepu_per_token": "0.071963804954791187",
         "price_method": "v3.slot0"
       }
     },
@@ -116,9 +116,9 @@
           "pool_type": "v3-like",
           "token0": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
           "token1": "0x4200000000000000000000000000000000000006",
-          "wpepu_balance_raw": "1463720374368213309953720",
-          "token_balance_raw": "748370345054693342176385188",
-          "price_wpepu_per_token": "0.00162489338017133",
+          "wpepu_balance_raw": "8903116587199616099895867",
+          "token_balance_raw": "230226085608384351494638216",
+          "price_wpepu_per_token": "0.053392412741459108",
           "price_method": "v3.slot0"
         },
         {
@@ -137,9 +137,9 @@
         "pool_type": "v3-like",
         "token0": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
         "token1": "0x4200000000000000000000000000000000000006",
-        "wpepu_balance_raw": "1463720374368213309953720",
-        "token_balance_raw": "748370345054693342176385188",
-        "price_wpepu_per_token": "0.00162489338017133",
+        "wpepu_balance_raw": "8903116587199616099895867",
+        "token_balance_raw": "230226085608384351494638216",
+        "price_wpepu_per_token": "0.053392412741459108",
         "price_method": "v3.slot0"
       }
     },
@@ -157,9 +157,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
-          "wpepu_balance_raw": "1656780513013063597936781",
-          "token_balance_raw": "771073666522773990715021488",
-          "price_wpepu_per_token": "0.001419684474033541",
+          "wpepu_balance_raw": "7517736536245474780012713",
+          "token_balance_raw": "230742003532654753880365821",
+          "price_wpepu_per_token": "0.043536574489577781",
           "price_method": "v3.slot0"
         },
         {
@@ -188,9 +188,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
-        "wpepu_balance_raw": "1656780513013063597936781",
-        "token_balance_raw": "771073666522773990715021488",
-        "price_wpepu_per_token": "0.001419684474033541",
+        "wpepu_balance_raw": "7517736536245474780012713",
+        "token_balance_raw": "230742003532654753880365821",
+        "price_wpepu_per_token": "0.043536574489577781",
         "price_method": "v3.slot0"
       }
     },
@@ -208,9 +208,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
-          "wpepu_balance_raw": "2000578944828274162635986",
-          "token_balance_raw": "719636155233097830611752347",
-          "price_wpepu_per_token": "0.001778687392398117",
+          "wpepu_balance_raw": "5491509331836382261852131",
+          "token_balance_raw": "278238553241657325489140130",
+          "price_wpepu_per_token": "0.024145370160165583",
           "price_method": "v3.slot0"
         },
         {
@@ -239,9 +239,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
-        "wpepu_balance_raw": "2000578944828274162635986",
-        "token_balance_raw": "719636155233097830611752347",
-        "price_wpepu_per_token": "0.001778687392398117",
+        "wpepu_balance_raw": "5491509331836382261852131",
+        "token_balance_raw": "278238553241657325489140130",
+        "price_wpepu_per_token": "0.024145370160165583",
         "price_method": "v3.slot0"
       }
     },
@@ -259,9 +259,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
-          "wpepu_balance_raw": "943660440531619542843782",
-          "token_balance_raw": "975010559004781544764655974",
-          "price_wpepu_per_token": "0.000633547763217055",
+          "wpepu_balance_raw": "4385619497400539924152435",
+          "token_balance_raw": "252055733004035838859730462",
+          "price_wpepu_per_token": "0.021691656470125366",
           "price_method": "v3.slot0"
         },
         {
@@ -280,9 +280,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
-        "wpepu_balance_raw": "943660440531619542843782",
-        "token_balance_raw": "975010559004781544764655974",
-        "price_wpepu_per_token": "0.000633547763217055",
+        "wpepu_balance_raw": "4385619497400539924152435",
+        "token_balance_raw": "252055733004035838859730462",
+        "price_wpepu_per_token": "0.021691656470125366",
         "price_method": "v3.slot0"
       }
     },
@@ -300,9 +300,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x808B7d50900F06f5652686F050009E225463F1Cd",
-          "wpepu_balance_raw": "1383652781129184776211327",
-          "token_balance_raw": "937565126346994683102086281",
-          "price_wpepu_per_token": "0.000735699126206768",
+          "wpepu_balance_raw": "4349019710803164663579260",
+          "token_balance_raw": "296420489834345603566140946",
+          "price_wpepu_per_token": "0.017966979532051863",
           "price_method": "v3.slot0"
         },
         {
@@ -321,9 +321,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0x808B7d50900F06f5652686F050009E225463F1Cd",
-        "wpepu_balance_raw": "1383652781129184776211327",
-        "token_balance_raw": "937565126346994683102086281",
-        "price_wpepu_per_token": "0.000735699126206768",
+        "wpepu_balance_raw": "4349019710803164663579260",
+        "token_balance_raw": "296420489834345603566140946",
+        "price_wpepu_per_token": "0.017966979532051863",
         "price_method": "v3.slot0"
       }
     },
@@ -341,9 +341,9 @@
           "pool_type": "v3-like",
           "token0": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
           "token1": "0x4200000000000000000000000000000000000006",
-          "wpepu_balance_raw": "912749076548372136086200",
-          "token_balance_raw": "746999977920235228893695193",
-          "price_wpepu_per_token": "0.001401111849645441",
+          "wpepu_balance_raw": "3573116218761759389166276",
+          "token_balance_raw": "298784777353703285844007353",
+          "price_wpepu_per_token": "0.016460491122931995",
           "price_method": "v3.slot0"
         },
         {
@@ -362,9 +362,9 @@
         "pool_type": "v3-like",
         "token0": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
         "token1": "0x4200000000000000000000000000000000000006",
-        "wpepu_balance_raw": "912749076548372136086200",
-        "token_balance_raw": "746999977920235228893695193",
-        "price_wpepu_per_token": "0.001401111849645441",
+        "wpepu_balance_raw": "3573116218761759389166276",
+        "token_balance_raw": "298784777353703285844007353",
+        "price_wpepu_per_token": "0.016460491122931995",
         "price_method": "v3.slot0"
       }
     },
@@ -382,9 +382,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
-          "wpepu_balance_raw": "721746853052188636018178",
-          "token_balance_raw": "944549824435152393202176739",
-          "price_wpepu_per_token": "0.000702098623369923",
+          "wpepu_balance_raw": "3097441572723618389552733",
+          "token_balance_raw": "440927042963223728396023448",
+          "price_wpepu_per_token": "0.009938707933269419",
           "price_method": "v3.slot0"
         },
         {
@@ -403,9 +403,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
-        "wpepu_balance_raw": "721746853052188636018178",
-        "token_balance_raw": "944549824435152393202176739",
-        "price_wpepu_per_token": "0.000702098623369923",
+        "wpepu_balance_raw": "3097441572723618389552733",
+        "token_balance_raw": "440927042963223728396023448",
+        "price_wpepu_per_token": "0.009938707933269419",
         "price_method": "v3.slot0"
       }
     },
@@ -423,9 +423,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
-          "wpepu_balance_raw": "686965216247230393797790",
-          "token_balance_raw": "977829965861214308999968081",
-          "price_wpepu_per_token": "0.000651685619195925",
+          "wpepu_balance_raw": "2640567190886696946361995",
+          "token_balance_raw": "374254688927189781431555787",
+          "price_wpepu_per_token": "0.01085888291620909",
           "price_method": "v3.slot0"
         },
         {
@@ -454,9 +454,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
-        "wpepu_balance_raw": "686965216247230393797790",
-        "token_balance_raw": "977829965861214308999968081",
-        "price_wpepu_per_token": "0.000651685619195925",
+        "wpepu_balance_raw": "2640567190886696946361995",
+        "token_balance_raw": "374254688927189781431555787",
+        "price_wpepu_per_token": "0.01085888291620909",
         "price_method": "v3.slot0"
       }
     },
@@ -474,9 +474,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
-          "wpepu_balance_raw": "598111652142058179749141",
-          "token_balance_raw": "869521242560142497611159977",
-          "price_wpepu_per_token": "0.000841081335748997",
+          "wpepu_balance_raw": "1222035260190191932486025",
+          "token_balance_raw": "529206648560848046608960649",
+          "price_wpepu_per_token": "0.00422791926209124",
           "price_method": "v3.slot0"
         },
         {
@@ -495,9 +495,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
-        "wpepu_balance_raw": "598111652142058179749141",
-        "token_balance_raw": "869521242560142497611159977",
-        "price_wpepu_per_token": "0.000841081335748997",
+        "wpepu_balance_raw": "1222035260190191932486025",
+        "token_balance_raw": "529206648560848046608960649",
+        "price_wpepu_per_token": "0.00422791926209124",
         "price_method": "v3.slot0"
       }
     },
@@ -515,9 +515,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
-          "wpepu_balance_raw": "463076509965160699697508",
-          "token_balance_raw": "985466802964303275754556414",
-          "price_wpepu_per_token": "0.000595944874550887",
+          "wpepu_balance_raw": "743996485179717901123933",
+          "token_balance_raw": "696971185712656133296319136",
+          "price_wpepu_per_token": "0.001640949265845501",
           "price_method": "v3.slot0"
         },
         {
@@ -536,9 +536,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
-        "wpepu_balance_raw": "463076509965160699697508",
-        "token_balance_raw": "985466802964303275754556414",
-        "price_wpepu_per_token": "0.000595944874550887",
+        "wpepu_balance_raw": "743996485179717901123933",
+        "token_balance_raw": "696971185712656133296319136",
+        "price_wpepu_per_token": "0.001640949265845501",
         "price_method": "v3.slot0"
       }
     },
@@ -556,9 +556,9 @@
           "pool_type": "v3-like",
           "token0": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
           "token1": "0x4200000000000000000000000000000000000006",
-          "wpepu_balance_raw": "1572061773567831598325216",
-          "token_balance_raw": "970270162803167203357811043",
-          "price_wpepu_per_token": "0.000731534631420657",
+          "wpepu_balance_raw": "7266461884248817910676944",
+          "token_balance_raw": "253780311069049217435917594",
+          "price_wpepu_per_token": "0.038552370259572953",
           "price_method": "v3.slot0"
         },
         {
@@ -577,9 +577,9 @@
         "pool_type": "v3-like",
         "token0": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
         "token1": "0x4200000000000000000000000000000000000006",
-        "wpepu_balance_raw": "1572061773567831598325216",
-        "token_balance_raw": "970270162803167203357811043",
-        "price_wpepu_per_token": "0.000731534631420657",
+        "wpepu_balance_raw": "7266461884248817910676944",
+        "token_balance_raw": "253780311069049217435917594",
+        "price_wpepu_per_token": "0.038552370259572953",
         "price_method": "v3.slot0"
       }
     },
@@ -597,9 +597,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
-          "wpepu_balance_raw": "917653130251728803461416",
-          "token_balance_raw": "950791383136337215271155266",
-          "price_wpepu_per_token": "0.000741117009655558",
+          "wpepu_balance_raw": "1337354604994632058729125",
+          "token_balance_raw": "644766599133461501611402819",
+          "price_wpepu_per_token": "0.002603429541072686",
           "price_method": "v3.slot0"
         },
         {
@@ -618,9 +618,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
-        "wpepu_balance_raw": "917653130251728803461416",
-        "token_balance_raw": "950791383136337215271155266",
-        "price_wpepu_per_token": "0.000741117009655558",
+        "wpepu_balance_raw": "1337354604994632058729125",
+        "token_balance_raw": "644766599133461501611402819",
+        "price_wpepu_per_token": "0.002603429541072686",
         "price_method": "v3.slot0"
       }
     },
@@ -638,9 +638,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
-          "wpepu_balance_raw": "16953813748188542389979819",
-          "token_balance_raw": "538605398403244240128632866",
-          "price_wpepu_per_token": "0.00547008191519928",
+          "wpepu_balance_raw": "52818103173080446129434055",
+          "token_balance_raw": "81526875568718314400722147",
+          "price_wpepu_per_token": "1.242839252255176359",
           "price_method": "v3.slot0"
         },
         {
@@ -668,9 +668,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
-          "wpepu_balance_raw": "12",
-          "token_balance_raw": "12",
-          "price_wpepu_per_token": "0.046990420804402334",
+          "wpepu_balance_raw": "3",
+          "token_balance_raw": "1",
+          "price_wpepu_per_token": "0.18658752983468003",
           "price_method": "v3.slot0"
         }
       ],
@@ -679,9 +679,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
-        "wpepu_balance_raw": "16953813748188542389979819",
-        "token_balance_raw": "538605398403244240128632866",
-        "price_wpepu_per_token": "0.00547008191519928",
+        "wpepu_balance_raw": "52818103173080446129434055",
+        "token_balance_raw": "81526875568718314400722147",
+        "price_wpepu_per_token": "1.242839252255176359",
         "price_method": "v3.slot0"
       }
     },
@@ -699,9 +699,9 @@
           "pool_type": "v3-like",
           "token0": "0x0e26f8861A53506A6395004360306d63b9B85F45",
           "token1": "0x4200000000000000000000000000000000000006",
-          "wpepu_balance_raw": "2386688453234791287821399",
-          "token_balance_raw": "919711369100775489382713202",
-          "price_wpepu_per_token": "0.000780718570428887",
+          "wpepu_balance_raw": "19464531134136581446401157",
+          "token_balance_raw": "96829970221105615743807713",
+          "price_wpepu_per_token": "0.278043718683330936",
           "price_method": "v3.slot0"
         },
         {
@@ -720,9 +720,9 @@
         "pool_type": "v3-like",
         "token0": "0x0e26f8861A53506A6395004360306d63b9B85F45",
         "token1": "0x4200000000000000000000000000000000000006",
-        "wpepu_balance_raw": "2386688453234791287821399",
-        "token_balance_raw": "919711369100775489382713202",
-        "price_wpepu_per_token": "0.000780718570428887",
+        "wpepu_balance_raw": "19464531134136581446401157",
+        "token_balance_raw": "96829970221105615743807713",
+        "price_wpepu_per_token": "0.278043718683330936",
         "price_method": "v3.slot0"
       }
     },
@@ -740,9 +740,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
-          "wpepu_balance_raw": "846195570793616492801696",
-          "token_balance_raw": "969092818172803000261246802",
-          "price_wpepu_per_token": "0.000667956293915854",
+          "wpepu_balance_raw": "1451807850055702185282138",
+          "token_balance_raw": "574319822659266367123167091",
+          "price_wpepu_per_token": "0.0036311868697674",
           "price_method": "v3.slot0"
         },
         {
@@ -761,9 +761,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
-        "wpepu_balance_raw": "846195570793616492801696",
-        "token_balance_raw": "969092818172803000261246802",
-        "price_wpepu_per_token": "0.000667956293915854",
+        "wpepu_balance_raw": "1451807850055702185282138",
+        "token_balance_raw": "574319822659266367123167091",
+        "price_wpepu_per_token": "0.0036311868697674",
         "price_method": "v3.slot0"
       }
     },
@@ -781,9 +781,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
-          "wpepu_balance_raw": "486300307328304475421605",
-          "token_balance_raw": "995555531449631805300408160",
-          "price_wpepu_per_token": "0.000577698040779335",
+          "wpepu_balance_raw": "1131779684738210581956235",
+          "token_balance_raw": "548888778927230517790697325",
+          "price_wpepu_per_token": "0.003701440011074223",
           "price_method": "v3.slot0"
         },
         {
@@ -802,9 +802,9 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
-        "wpepu_balance_raw": "486300307328304475421605",
-        "token_balance_raw": "995555531449631805300408160",
-        "price_wpepu_per_token": "0.000577698040779335",
+        "wpepu_balance_raw": "1131779684738210581956235",
+        "token_balance_raw": "548888778927230517790697325",
+        "price_wpepu_per_token": "0.003701440011074223",
         "price_method": "v3.slot0"
       }
     },
@@ -822,9 +822,9 @@
           "pool_type": "v3-like",
           "token0": "0x4200000000000000000000000000000000000006",
           "token1": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
-          "wpepu_balance_raw": "3126",
-          "token_balance_raw": "2839",
-          "price_wpepu_per_token": "0.012394898478409694",
+          "wpepu_balance_raw": "9624082677763718897499045",
+          "token_balance_raw": "33358076381689427713180096",
+          "price_wpepu_per_token": "0.288561989637435044",
           "price_method": "v3.slot0"
         }
       ],
@@ -833,12 +833,12 @@
         "pool_type": "v3-like",
         "token0": "0x4200000000000000000000000000000000000006",
         "token1": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
-        "wpepu_balance_raw": "3126",
-        "token_balance_raw": "2839",
-        "price_wpepu_per_token": "0.012394898478409694",
+        "wpepu_balance_raw": "9624082677763718897499045",
+        "token_balance_raw": "33358076381689427713180096",
+        "price_wpepu_per_token": "0.288561989637435044",
         "price_method": "v3.slot0"
       }
     }
   ],
-  "generated_at": "2026-02-21T07:16:46.845Z"
+  "generated_at": "2026-02-21T08:15:55.039Z"
 }
