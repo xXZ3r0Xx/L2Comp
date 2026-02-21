@@ -1,0 +1,1334 @@
+{
+  "chain_id": 3409,
+  "rpc_url": "http://localhost:8545",
+  "staking_contract": "0x99618fE301BabC0929D956018d8cfB9938810AeC",
+  "snapshot_block": 6203280,
+  "from_block": 5185120,
+  "chunk_size": 10000,
+  "pool_count_at_block": 2,
+  "pools_with_activity": 2,
+  "unique_stakers": 51,
+  "wallet_totals_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+  "wallet_totals_symbol": "$777",
+  "wallets_count": 51,
+  "wallets": [
+    {
+      "wallet": "0x1ea5dEf170293848946172B11fe3b2052a51Beb7",
+      "total_staked_raw": "50137369449360200936208173",
+      "total_staked": "50137369.449360200936208173",
+      "total_staked_human": "50.137.369,44936",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "50137369449360200936208173",
+          "staked": "50137369.449360200936208173",
+          "staked_human": "50.137.369,44936"
+        }
+      ]
+    },
+    {
+      "wallet": "0xb52BdA9E982Af70b80D9d30940B23961E785919F",
+      "total_staked_raw": "45275526433986812886909649",
+      "total_staked": "45275526.433986812886909649",
+      "total_staked_human": "45.275.526,433986",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "45275526433986812886909649",
+          "staked": "45275526.433986812886909649",
+          "staked_human": "45.275.526,433986"
+        }
+      ]
+    },
+    {
+      "wallet": "0xed4c08AA34bDb11bed9D8f339ccB964274F043F1",
+      "total_staked_raw": "26533930000000000000000000",
+      "total_staked": "26533930.0",
+      "total_staked_human": "26.533.930",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "10000000000000000000000000",
+          "staked": "10000000.0",
+          "staked_human": "10.000.000"
+        },
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "16533930000000000000000000",
+          "staked": "16533930.0",
+          "staked_human": "16.533.930"
+        }
+      ]
+    },
+    {
+      "wallet": "0x755cFE69ef0E042E43181ca518C685949e86e90b",
+      "total_staked_raw": "21413293622902496493049819",
+      "total_staked": "21413293.622902496493049819",
+      "total_staked_human": "21.413.293,622902",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "21413293622902496493049819",
+          "staked": "21413293.622902496493049819",
+          "staked_human": "21.413.293,622902"
+        }
+      ]
+    },
+    {
+      "wallet": "0xDDE18593ADD8e42ECAB0b13B04463fBb9fC3528a",
+      "total_staked_raw": "20100000000000000000000000",
+      "total_staked": "20100000.0",
+      "total_staked_human": "20.100.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "20100000000000000000000000",
+          "staked": "20100000.0",
+          "staked_human": "20.100.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x38ce147671E848fF2dEfDe7269Bc1fA8e42E420b",
+      "total_staked_raw": "19296000000000000000000000",
+      "total_staked": "19296000.0",
+      "total_staked_human": "19.296.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "15000000000000000000000000",
+          "staked": "15000000.0",
+          "staked_human": "15.000.000"
+        },
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "4296000000000000000000000",
+          "staked": "4296000.0",
+          "staked_human": "4.296.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x613553A2C83E8b90dc755297c89D06BA673e695f",
+      "total_staked_raw": "17867581761306253709113528",
+      "total_staked": "17867581.761306253709113528",
+      "total_staked_human": "17.867.581,761306",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "17867581761306253709113528",
+          "staked": "17867581.761306253709113528",
+          "staked_human": "17.867.581,761306"
+        }
+      ]
+    },
+    {
+      "wallet": "0x4EEf9Ff56de52D73fAa0539A7aeB5FaC3A0916cB",
+      "total_staked_raw": "17000000000000000000000000",
+      "total_staked": "17000000.0",
+      "total_staked_human": "17.000.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "17000000000000000000000000",
+          "staked": "17000000.0",
+          "staked_human": "17.000.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0xfEB5f9DdcDCAEF594E4acaB975798FF9a02340f1",
+      "total_staked_raw": "15496970044634216861631727",
+      "total_staked": "15496970.044634216861631727",
+      "total_staked_human": "15.496.970,044634",
+      "pools": [
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "15496970044634216861631727",
+          "staked": "15496970.044634216861631727",
+          "staked_human": "15.496.970,044634"
+        }
+      ]
+    },
+    {
+      "wallet": "0xB7d82eFa7b9c9F8BeDaA7f7F2bC0baD8044455F5",
+      "total_staked_raw": "12754686094887515551126840",
+      "total_staked": "12754686.09488751555112684",
+      "total_staked_human": "12.754.686,094887",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "12754686094887515551126840",
+          "staked": "12754686.09488751555112684",
+          "staked_human": "12.754.686,094887"
+        }
+      ]
+    },
+    {
+      "wallet": "0xBC2033b844c490A46A60bba598CdF72A7Ec757Df",
+      "total_staked_raw": "12000000000000000000000000",
+      "total_staked": "12000000.0",
+      "total_staked_human": "12.000.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "12000000000000000000000000",
+          "staked": "12000000.0",
+          "staked_human": "12.000.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x1b74572C3AdE4635Cfb7b8fD1E63Dc544cE4596F",
+      "total_staked_raw": "10000000000000000000000000",
+      "total_staked": "10000000.0",
+      "total_staked_human": "10.000.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "10000000000000000000000000",
+          "staked": "10000000.0",
+          "staked_human": "10.000.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0xd60E6aca6009122435728612C4f772448bED3f56",
+      "total_staked_raw": "8921324414383097411006890",
+      "total_staked": "8921324.41438309741100689",
+      "total_staked_human": "8.921.324,414383",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "8921324414383097411006890",
+          "staked": "8921324.41438309741100689",
+          "staked_human": "8.921.324,414383"
+        }
+      ]
+    },
+    {
+      "wallet": "0xf838fce6c64fAc68f3a09C0df3F9C98609aBcA3E",
+      "total_staked_raw": "7171014232830284849596161",
+      "total_staked": "7171014.232830284849596161",
+      "total_staked_human": "7.171.014,23283",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "7171014232830284849596161",
+          "staked": "7171014.232830284849596161",
+          "staked_human": "7.171.014,23283"
+        }
+      ]
+    },
+    {
+      "wallet": "0x73752EF0F576B87F25559aCb92112393dc6E1B55",
+      "total_staked_raw": "7000000000000000000000000",
+      "total_staked": "7000000.0",
+      "total_staked_human": "7.000.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "5000000000000000000000000",
+          "staked": "5000000.0",
+          "staked_human": "5.000.000"
+        },
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "2000000000000000000000000",
+          "staked": "2000000.0",
+          "staked_human": "2.000.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x602B02968af060fC1c6FF15F0EB4931041ec8cD5",
+      "total_staked_raw": "6881925403768350280581980",
+      "total_staked": "6881925.40376835028058198",
+      "total_staked_human": "6.881.925,403768",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "6466559403768350280581980",
+          "staked": "6466559.40376835028058198",
+          "staked_human": "6.466.559,403768"
+        },
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "415366000000000000000000",
+          "staked": "415366.0",
+          "staked_human": "415.366"
+        }
+      ]
+    },
+    {
+      "wallet": "0x2519e65806336bd8C08DE507C1AB7cf8a8c8853c",
+      "total_staked_raw": "5321204187204954634179293",
+      "total_staked": "5321204.187204954634179293",
+      "total_staked_human": "5.321.204,187204",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "5321204187204954634179293",
+          "staked": "5321204.187204954634179293",
+          "staked_human": "5.321.204,187204"
+        }
+      ]
+    },
+    {
+      "wallet": "0xfBa6F710d4612725b3fBa240D03527e2053714f4",
+      "total_staked_raw": "3632734499962381003232887",
+      "total_staked": "3632734.499962381003232887",
+      "total_staked_human": "3.632.734,499962",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "2750000004692349119228085",
+          "staked": "2750000.004692349119228085",
+          "staked_human": "2.750.000,004692"
+        },
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "882734495270031884004802",
+          "staked": "882734.495270031884004802",
+          "staked_human": "882.734,49527"
+        }
+      ]
+    },
+    {
+      "wallet": "0x27AE41fd88d14fD5f996b82519AA6b3E37D02E3d",
+      "total_staked_raw": "3276458266374549010045560",
+      "total_staked": "3276458.26637454901004556",
+      "total_staked_human": "3.276.458,266374",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "3276458266374549010045560",
+          "staked": "3276458.26637454901004556",
+          "staked_human": "3.276.458,266374"
+        }
+      ]
+    },
+    {
+      "wallet": "0xBc8DB4b6BA977dF79eAc5555EE58C9489D96B1d9",
+      "total_staked_raw": "1416431892691474634444296",
+      "total_staked": "1416431.892691474634444296",
+      "total_staked_human": "1.416.431,892691",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "1416431892691474634444296",
+          "staked": "1416431.892691474634444296",
+          "staked_human": "1.416.431,892691"
+        }
+      ]
+    },
+    {
+      "wallet": "0x12c2d25691217Ac2f5Fbb728177bfd78Ab0F1531",
+      "total_staked_raw": "1403937809512136928859414",
+      "total_staked": "1403937.809512136928859414",
+      "total_staked_human": "1.403.937,809512",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "1403937809512136928859414",
+          "staked": "1403937.809512136928859414",
+          "staked_human": "1.403.937,809512"
+        }
+      ]
+    },
+    {
+      "wallet": "0x31F5D4B20F0B7B8d75999c640DD926187AA20211",
+      "total_staked_raw": "1253470940330117461371180",
+      "total_staked": "1253470.94033011746137118",
+      "total_staked_human": "1.253.470,94033",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "1253470940330117461371180",
+          "staked": "1253470.94033011746137118",
+          "staked_human": "1.253.470,94033"
+        }
+      ]
+    },
+    {
+      "wallet": "0x9A27C287B789833D363666c192Bae7082775d076",
+      "total_staked_raw": "1000000000000000000000000",
+      "total_staked": "1000000.0",
+      "total_staked_human": "1.000.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "1000000000000000000000000",
+          "staked": "1000000.0",
+          "staked_human": "1.000.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0xA587b31DEC4D268f30247344CbE2fD6B65DA9470",
+      "total_staked_raw": "1000000000000000000000000",
+      "total_staked": "1000000.0",
+      "total_staked_human": "1.000.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "1000000000000000000000000",
+          "staked": "1000000.0",
+          "staked_human": "1.000.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0xF7594946D5AfCA9E88D8eAFe442ef0F033fe8BD7",
+      "total_staked_raw": "881883294020900650886204",
+      "total_staked": "881883.294020900650886204",
+      "total_staked_human": "881.883,29402",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "881883294020900650886204",
+          "staked": "881883.294020900650886204",
+          "staked_human": "881.883,29402"
+        }
+      ]
+    },
+    {
+      "wallet": "0xC3116169e07c2Acb3c4e309dD90F522654066D99",
+      "total_staked_raw": "823310299432692011956064",
+      "total_staked": "823310.299432692011956064",
+      "total_staked_human": "823.310,299432",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "823310299432692011956064",
+          "staked": "823310.299432692011956064",
+          "staked_human": "823.310,299432"
+        }
+      ]
+    },
+    {
+      "wallet": "0x8076a4Ff0BD640bb5464674768D95427E8456603",
+      "total_staked_raw": "670274314951066186917824",
+      "total_staked": "670274.314951066186917824",
+      "total_staked_human": "670.274,314951",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "670274314951066186917824",
+          "staked": "670274.314951066186917824",
+          "staked_human": "670.274,314951"
+        }
+      ]
+    },
+    {
+      "wallet": "0x76Da5058fEfE2B58E80C8fF770fCe3971cb0a45c",
+      "total_staked_raw": "627252000000000000000000",
+      "total_staked": "627252.0",
+      "total_staked_human": "627.252",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "627252000000000000000000",
+          "staked": "627252.0",
+          "staked_human": "627.252"
+        }
+      ]
+    },
+    {
+      "wallet": "0x038b0723da0D424fb74597ae9666BAD6EE029402",
+      "total_staked_raw": "573727980509492426619911",
+      "total_staked": "573727.980509492426619911",
+      "total_staked_human": "573.727,980509",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "573727980509492426619911",
+          "staked": "573727.980509492426619911",
+          "staked_human": "573.727,980509"
+        }
+      ]
+    },
+    {
+      "wallet": "0xe4ef26F355b71ef0bd634912a12FC973c3B97Af3",
+      "total_staked_raw": "548474149423529538728605",
+      "total_staked": "548474.149423529538728605",
+      "total_staked_human": "548.474,149423",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "548474149423529538728605",
+          "staked": "548474.149423529538728605",
+          "staked_human": "548.474,149423"
+        }
+      ]
+    },
+    {
+      "wallet": "0x119F3134d9a14aBf1387F39EC4A6Ce2d405bb1AA",
+      "total_staked_raw": "530000000000000000000000",
+      "total_staked": "530000.0",
+      "total_staked_human": "530.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "500000000000000000000000",
+          "staked": "500000.0",
+          "staked_human": "500.000"
+        },
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "30000000000000000000000",
+          "staked": "30000.0",
+          "staked_human": "30.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0xCBE6BB903e5b5Ee6B65787FaEfBB1f9Db252689C",
+      "total_staked_raw": "488579442007588558444418",
+      "total_staked": "488579.442007588558444418",
+      "total_staked_human": "488.579,442007",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "488579442007588558444418",
+          "staked": "488579.442007588558444418",
+          "staked_human": "488.579,442007"
+        }
+      ]
+    },
+    {
+      "wallet": "0xeAD5f09229cC052A3a14857c9f2eCFe846EBF696",
+      "total_staked_raw": "449366156395209729048615",
+      "total_staked": "449366.156395209729048615",
+      "total_staked_human": "449.366,156395",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "449366156395209729048615",
+          "staked": "449366.156395209729048615",
+          "staked_human": "449.366,156395"
+        }
+      ]
+    },
+    {
+      "wallet": "0xfe5c3b274884D89936bd538315F531324fc0Eb8C",
+      "total_staked_raw": "260936649225064641516483",
+      "total_staked": "260936.649225064641516483",
+      "total_staked_human": "260.936,649225",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "260936649225064641516483",
+          "staked": "260936.649225064641516483",
+          "staked_human": "260.936,649225"
+        }
+      ]
+    },
+    {
+      "wallet": "0xC6AF8fF6b28c3725059042a9b70e4eD7dAA6E89D",
+      "total_staked_raw": "205691641384030540388715",
+      "total_staked": "205691.641384030540388715",
+      "total_staked_human": "205.691,641384",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "205691641384030540388715",
+          "staked": "205691.641384030540388715",
+          "staked_human": "205.691,641384"
+        }
+      ]
+    },
+    {
+      "wallet": "0x8932CD437c0De164d14DbDd2aeFd63b262402eAa",
+      "total_staked_raw": "162850539756984044816022",
+      "total_staked": "162850.539756984044816022",
+      "total_staked_human": "162.850,539756",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "162850539756984044816022",
+          "staked": "162850.539756984044816022",
+          "staked_human": "162.850,539756"
+        }
+      ]
+    },
+    {
+      "wallet": "0x159C906e00a53b701B58EBE0678FC27ABE0fF04e",
+      "total_staked_raw": "159498779155167363342008",
+      "total_staked": "159498.779155167363342008",
+      "total_staked_human": "159.498,779155",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "159498779155167363342008",
+          "staked": "159498.779155167363342008",
+          "staked_human": "159.498,779155"
+        }
+      ]
+    },
+    {
+      "wallet": "0x7A31b938cF5a03470F415b055d363F99204691B7",
+      "total_staked_raw": "158448510002949471734187",
+      "total_staked": "158448.510002949471734187",
+      "total_staked_human": "158.448,510002",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "158448510002949471734187",
+          "staked": "158448.510002949471734187",
+          "staked_human": "158.448,510002"
+        }
+      ]
+    },
+    {
+      "wallet": "0xf135BA7337Ef9374215C6740595D008Fd2492Da7",
+      "total_staked_raw": "150000000000000000000000",
+      "total_staked": "150000.0",
+      "total_staked_human": "150.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "150000000000000000000000",
+          "staked": "150000.0",
+          "staked_human": "150.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x37E0eb368b22D0b02B8BC653A3493115166D1951",
+      "total_staked_raw": "109581403778431029026966",
+      "total_staked": "109581.403778431029026966",
+      "total_staked_human": "109.581,403778",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "109581403778431029026966",
+          "staked": "109581.403778431029026966",
+          "staked_human": "109.581,403778"
+        }
+      ]
+    },
+    {
+      "wallet": "0xE72A293253B80963b7AC1e19089E07CdC0e8892e",
+      "total_staked_raw": "68456172306999474514343",
+      "total_staked": "68456.172306999474514343",
+      "total_staked_human": "68.456,172306",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "68456172306999474514343",
+          "staked": "68456.172306999474514343",
+          "staked_human": "68.456,172306"
+        }
+      ]
+    },
+    {
+      "wallet": "0x8354DD9e3a8DAa8C6875AEC0b596c19b542982dD",
+      "total_staked_raw": "40000000000000000000000",
+      "total_staked": "40000.0",
+      "total_staked_human": "40.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "40000000000000000000000",
+          "staked": "40000.0",
+          "staked_human": "40.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x9adfa7556065735B6E8c7eE3BAf04eC2B9C90660",
+      "total_staked_raw": "35336000000000000000000",
+      "total_staked": "35336.0",
+      "total_staked_human": "35.336",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "35336000000000000000000",
+          "staked": "35336.0",
+          "staked_human": "35.336"
+        }
+      ]
+    },
+    {
+      "wallet": "0xdB2A900052C5Af2FE4b7790f05D0e1C27d77f236",
+      "total_staked_raw": "32259000000000000000000",
+      "total_staked": "32259.0",
+      "total_staked_human": "32.259",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "32259000000000000000000",
+          "staked": "32259.0",
+          "staked_human": "32.259"
+        }
+      ]
+    },
+    {
+      "wallet": "0x5068a059F3d246eB88f32fa7c553BF48E13910e9",
+      "total_staked_raw": "11192633241773868438433",
+      "total_staked": "11192.633241773868438433",
+      "total_staked_human": "11.192,633241",
+      "pools": [
+        {
+          "pool_id": "1",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "11192633241773868438433",
+          "staked": "11192.633241773868438433",
+          "staked_human": "11.192,633241"
+        }
+      ]
+    },
+    {
+      "wallet": "0x2DD87ef4369c72605a762dB77d25b48FFD7218f3",
+      "total_staked_raw": "10000000000000000000000",
+      "total_staked": "10000.0",
+      "total_staked_human": "10.000",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "10000000000000000000000",
+          "staked": "10000.0",
+          "staked_human": "10.000"
+        }
+      ]
+    },
+    {
+      "wallet": "0x415EddB076677E8a66093F44aD12655a10D86e58",
+      "total_staked_raw": "7009702649127145592225",
+      "total_staked": "7009.702649127145592225",
+      "total_staked_human": "7.009,702649",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "7009702649127145592225",
+          "staked": "7009.702649127145592225",
+          "staked_human": "7.009,702649"
+        }
+      ]
+    },
+    {
+      "wallet": "0xE4BCE46C4a865b53a7562AC87338A99Fac314678",
+      "total_staked_raw": "4856387207787613674357",
+      "total_staked": "4856.387207787613674357",
+      "total_staked_human": "4.856,387207",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "4856387207787613674357",
+          "staked": "4856.387207787613674357",
+          "staked_human": "4.856,387207"
+        }
+      ]
+    },
+    {
+      "wallet": "0x95fE0F2b92069B33BB5E584ddAF0C0eF7A50dD34",
+      "total_staked_raw": "1872185800662259074031",
+      "total_staked": "1872.185800662259074031",
+      "total_staked_human": "1.872,1858",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "1872185800662259074031",
+          "staked": "1872.185800662259074031",
+          "staked_human": "1.872,1858"
+        }
+      ]
+    },
+    {
+      "wallet": "0xA4563b9556A1e6c19fA0D57E8531c9399f4129Fd",
+      "total_staked_raw": "500000000000000000000",
+      "total_staked": "500.0",
+      "total_staked_human": "500",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "500000000000000000000",
+          "staked": "500.0",
+          "staked_human": "500"
+        }
+      ]
+    },
+    {
+      "wallet": "0xA74222E978793bfB638447D40E678fCa81ad41B7",
+      "total_staked_raw": "181519904491696730971",
+      "total_staked": "181.519904491696730971",
+      "total_staked_human": "181,519904",
+      "pools": [
+        {
+          "pool_id": "0",
+          "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "staking_token_symbol": "$777",
+          "staking_token_decimals": 18,
+          "staked_raw": "181519904491696730971",
+          "staked": "181.519904491696730971",
+          "staked_human": "181,519904"
+        }
+      ]
+    }
+  ],
+  "pools": [
+    {
+      "pool_id": "0",
+      "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+      "staking_token_symbol": "$777",
+      "staking_token_name": "$777",
+      "staking_token_decimals": 18,
+      "net_staked_sum_raw": "283499204642142768288732817",
+      "net_staked_sum": "283499204.642142768288732817",
+      "net_staked_sum_human": "283.499.204,642142",
+      "stakers_count": 49,
+      "stakers": [
+        {
+          "wallet": "0x1ea5dEf170293848946172B11fe3b2052a51Beb7",
+          "staked_raw": "50137369449360200936208173",
+          "staked": "50137369.449360200936208173",
+          "staked_human": "50.137.369,44936"
+        },
+        {
+          "wallet": "0xb52BdA9E982Af70b80D9d30940B23961E785919F",
+          "staked_raw": "45275526433986812886909649",
+          "staked": "45275526.433986812886909649",
+          "staked_human": "45.275.526,433986"
+        },
+        {
+          "wallet": "0x755cFE69ef0E042E43181ca518C685949e86e90b",
+          "staked_raw": "21413293622902496493049819",
+          "staked": "21413293.622902496493049819",
+          "staked_human": "21.413.293,622902"
+        },
+        {
+          "wallet": "0xDDE18593ADD8e42ECAB0b13B04463fBb9fC3528a",
+          "staked_raw": "20100000000000000000000000",
+          "staked": "20100000.0",
+          "staked_human": "20.100.000"
+        },
+        {
+          "wallet": "0x613553A2C83E8b90dc755297c89D06BA673e695f",
+          "staked_raw": "17867581761306253709113528",
+          "staked": "17867581.761306253709113528",
+          "staked_human": "17.867.581,761306"
+        },
+        {
+          "wallet": "0x4EEf9Ff56de52D73fAa0539A7aeB5FaC3A0916cB",
+          "staked_raw": "17000000000000000000000000",
+          "staked": "17000000.0",
+          "staked_human": "17.000.000"
+        },
+        {
+          "wallet": "0x38ce147671E848fF2dEfDe7269Bc1fA8e42E420b",
+          "staked_raw": "15000000000000000000000000",
+          "staked": "15000000.0",
+          "staked_human": "15.000.000"
+        },
+        {
+          "wallet": "0xB7d82eFa7b9c9F8BeDaA7f7F2bC0baD8044455F5",
+          "staked_raw": "12754686094887515551126840",
+          "staked": "12754686.09488751555112684",
+          "staked_human": "12.754.686,094887"
+        },
+        {
+          "wallet": "0xBC2033b844c490A46A60bba598CdF72A7Ec757Df",
+          "staked_raw": "12000000000000000000000000",
+          "staked": "12000000.0",
+          "staked_human": "12.000.000"
+        },
+        {
+          "wallet": "0x1b74572C3AdE4635Cfb7b8fD1E63Dc544cE4596F",
+          "staked_raw": "10000000000000000000000000",
+          "staked": "10000000.0",
+          "staked_human": "10.000.000"
+        },
+        {
+          "wallet": "0xed4c08AA34bDb11bed9D8f339ccB964274F043F1",
+          "staked_raw": "10000000000000000000000000",
+          "staked": "10000000.0",
+          "staked_human": "10.000.000"
+        },
+        {
+          "wallet": "0xd60E6aca6009122435728612C4f772448bED3f56",
+          "staked_raw": "8921324414383097411006890",
+          "staked": "8921324.41438309741100689",
+          "staked_human": "8.921.324,414383"
+        },
+        {
+          "wallet": "0xf838fce6c64fAc68f3a09C0df3F9C98609aBcA3E",
+          "staked_raw": "7171014232830284849596161",
+          "staked": "7171014.232830284849596161",
+          "staked_human": "7.171.014,23283"
+        },
+        {
+          "wallet": "0x602B02968af060fC1c6FF15F0EB4931041ec8cD5",
+          "staked_raw": "6466559403768350280581980",
+          "staked": "6466559.40376835028058198",
+          "staked_human": "6.466.559,403768"
+        },
+        {
+          "wallet": "0x2519e65806336bd8C08DE507C1AB7cf8a8c8853c",
+          "staked_raw": "5321204187204954634179293",
+          "staked": "5321204.187204954634179293",
+          "staked_human": "5.321.204,187204"
+        },
+        {
+          "wallet": "0x73752EF0F576B87F25559aCb92112393dc6E1B55",
+          "staked_raw": "5000000000000000000000000",
+          "staked": "5000000.0",
+          "staked_human": "5.000.000"
+        },
+        {
+          "wallet": "0x27AE41fd88d14fD5f996b82519AA6b3E37D02E3d",
+          "staked_raw": "3276458266374549010045560",
+          "staked": "3276458.26637454901004556",
+          "staked_human": "3.276.458,266374"
+        },
+        {
+          "wallet": "0xfBa6F710d4612725b3fBa240D03527e2053714f4",
+          "staked_raw": "2750000004692349119228085",
+          "staked": "2750000.004692349119228085",
+          "staked_human": "2.750.000,004692"
+        },
+        {
+          "wallet": "0xBc8DB4b6BA977dF79eAc5555EE58C9489D96B1d9",
+          "staked_raw": "1416431892691474634444296",
+          "staked": "1416431.892691474634444296",
+          "staked_human": "1.416.431,892691"
+        },
+        {
+          "wallet": "0x12c2d25691217Ac2f5Fbb728177bfd78Ab0F1531",
+          "staked_raw": "1403937809512136928859414",
+          "staked": "1403937.809512136928859414",
+          "staked_human": "1.403.937,809512"
+        },
+        {
+          "wallet": "0x31F5D4B20F0B7B8d75999c640DD926187AA20211",
+          "staked_raw": "1253470940330117461371180",
+          "staked": "1253470.94033011746137118",
+          "staked_human": "1.253.470,94033"
+        },
+        {
+          "wallet": "0x9A27C287B789833D363666c192Bae7082775d076",
+          "staked_raw": "1000000000000000000000000",
+          "staked": "1000000.0",
+          "staked_human": "1.000.000"
+        },
+        {
+          "wallet": "0xA587b31DEC4D268f30247344CbE2fD6B65DA9470",
+          "staked_raw": "1000000000000000000000000",
+          "staked": "1000000.0",
+          "staked_human": "1.000.000"
+        },
+        {
+          "wallet": "0xF7594946D5AfCA9E88D8eAFe442ef0F033fe8BD7",
+          "staked_raw": "881883294020900650886204",
+          "staked": "881883.294020900650886204",
+          "staked_human": "881.883,29402"
+        },
+        {
+          "wallet": "0xC3116169e07c2Acb3c4e309dD90F522654066D99",
+          "staked_raw": "823310299432692011956064",
+          "staked": "823310.299432692011956064",
+          "staked_human": "823.310,299432"
+        },
+        {
+          "wallet": "0x8076a4Ff0BD640bb5464674768D95427E8456603",
+          "staked_raw": "670274314951066186917824",
+          "staked": "670274.314951066186917824",
+          "staked_human": "670.274,314951"
+        },
+        {
+          "wallet": "0x76Da5058fEfE2B58E80C8fF770fCe3971cb0a45c",
+          "staked_raw": "627252000000000000000000",
+          "staked": "627252.0",
+          "staked_human": "627.252"
+        },
+        {
+          "wallet": "0x038b0723da0D424fb74597ae9666BAD6EE029402",
+          "staked_raw": "573727980509492426619911",
+          "staked": "573727.980509492426619911",
+          "staked_human": "573.727,980509"
+        },
+        {
+          "wallet": "0xe4ef26F355b71ef0bd634912a12FC973c3B97Af3",
+          "staked_raw": "548474149423529538728605",
+          "staked": "548474.149423529538728605",
+          "staked_human": "548.474,149423"
+        },
+        {
+          "wallet": "0x119F3134d9a14aBf1387F39EC4A6Ce2d405bb1AA",
+          "staked_raw": "500000000000000000000000",
+          "staked": "500000.0",
+          "staked_human": "500.000"
+        },
+        {
+          "wallet": "0xCBE6BB903e5b5Ee6B65787FaEfBB1f9Db252689C",
+          "staked_raw": "488579442007588558444418",
+          "staked": "488579.442007588558444418",
+          "staked_human": "488.579,442007"
+        },
+        {
+          "wallet": "0xeAD5f09229cC052A3a14857c9f2eCFe846EBF696",
+          "staked_raw": "449366156395209729048615",
+          "staked": "449366.156395209729048615",
+          "staked_human": "449.366,156395"
+        },
+        {
+          "wallet": "0xfe5c3b274884D89936bd538315F531324fc0Eb8C",
+          "staked_raw": "260936649225064641516483",
+          "staked": "260936.649225064641516483",
+          "staked_human": "260.936,649225"
+        },
+        {
+          "wallet": "0xC6AF8fF6b28c3725059042a9b70e4eD7dAA6E89D",
+          "staked_raw": "205691641384030540388715",
+          "staked": "205691.641384030540388715",
+          "staked_human": "205.691,641384"
+        },
+        {
+          "wallet": "0x8932CD437c0De164d14DbDd2aeFd63b262402eAa",
+          "staked_raw": "162850539756984044816022",
+          "staked": "162850.539756984044816022",
+          "staked_human": "162.850,539756"
+        },
+        {
+          "wallet": "0x159C906e00a53b701B58EBE0678FC27ABE0fF04e",
+          "staked_raw": "159498779155167363342008",
+          "staked": "159498.779155167363342008",
+          "staked_human": "159.498,779155"
+        },
+        {
+          "wallet": "0x7A31b938cF5a03470F415b055d363F99204691B7",
+          "staked_raw": "158448510002949471734187",
+          "staked": "158448.510002949471734187",
+          "staked_human": "158.448,510002"
+        },
+        {
+          "wallet": "0xf135BA7337Ef9374215C6740595D008Fd2492Da7",
+          "staked_raw": "150000000000000000000000",
+          "staked": "150000.0",
+          "staked_human": "150.000"
+        },
+        {
+          "wallet": "0x37E0eb368b22D0b02B8BC653A3493115166D1951",
+          "staked_raw": "109581403778431029026966",
+          "staked": "109581.403778431029026966",
+          "staked_human": "109.581,403778"
+        },
+        {
+          "wallet": "0xE72A293253B80963b7AC1e19089E07CdC0e8892e",
+          "staked_raw": "68456172306999474514343",
+          "staked": "68456.172306999474514343",
+          "staked_human": "68.456,172306"
+        },
+        {
+          "wallet": "0x8354DD9e3a8DAa8C6875AEC0b596c19b542982dD",
+          "staked_raw": "40000000000000000000000",
+          "staked": "40000.0",
+          "staked_human": "40.000"
+        },
+        {
+          "wallet": "0x9adfa7556065735B6E8c7eE3BAf04eC2B9C90660",
+          "staked_raw": "35336000000000000000000",
+          "staked": "35336.0",
+          "staked_human": "35.336"
+        },
+        {
+          "wallet": "0xdB2A900052C5Af2FE4b7790f05D0e1C27d77f236",
+          "staked_raw": "32259000000000000000000",
+          "staked": "32259.0",
+          "staked_human": "32.259"
+        },
+        {
+          "wallet": "0x2DD87ef4369c72605a762dB77d25b48FFD7218f3",
+          "staked_raw": "10000000000000000000000",
+          "staked": "10000.0",
+          "staked_human": "10.000"
+        },
+        {
+          "wallet": "0x415EddB076677E8a66093F44aD12655a10D86e58",
+          "staked_raw": "7009702649127145592225",
+          "staked": "7009.702649127145592225",
+          "staked_human": "7.009,702649"
+        },
+        {
+          "wallet": "0xE4BCE46C4a865b53a7562AC87338A99Fac314678",
+          "staked_raw": "4856387207787613674357",
+          "staked": "4856.387207787613674357",
+          "staked_human": "4.856,387207"
+        },
+        {
+          "wallet": "0x95fE0F2b92069B33BB5E584ddAF0C0eF7A50dD34",
+          "staked_raw": "1872185800662259074031",
+          "staked": "1872.185800662259074031",
+          "staked_human": "1.872,1858"
+        },
+        {
+          "wallet": "0xA4563b9556A1e6c19fA0D57E8531c9399f4129Fd",
+          "staked_raw": "500000000000000000000",
+          "staked": "500.0",
+          "staked_human": "500"
+        },
+        {
+          "wallet": "0xA74222E978793bfB638447D40E678fCa81ad41B7",
+          "staked_raw": "181519904491696730971",
+          "staked": "181.519904491696730971",
+          "staked_human": "181,519904"
+        }
+      ],
+      "pool_state": {
+        "reward_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+        "apy_basis_points": "7777",
+        "max_reward_duration": "31104000",
+        "lock_duration": "604800",
+        "lock_staking": true,
+        "allow_restake": true,
+        "total_staked_raw": "283499204642142768288732817",
+        "total_staked": "283499204.642142768288732817",
+        "total_staked_human": "283.499.204,642142",
+        "active": true,
+        "total_staked_minus_sum_raw": "0"
+      }
+    },
+    {
+      "pool_id": "1",
+      "staking_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+      "staking_token_symbol": "$777",
+      "staking_token_name": "$777",
+      "staking_token_decimals": 18,
+      "net_staked_sum_raw": "39666193173146022614074962",
+      "net_staked_sum": "39666193.173146022614074962",
+      "net_staked_sum_human": "39.666.193,173146",
+      "stakers_count": 8,
+      "stakers": [
+        {
+          "wallet": "0xed4c08AA34bDb11bed9D8f339ccB964274F043F1",
+          "staked_raw": "16533930000000000000000000",
+          "staked": "16533930.0",
+          "staked_human": "16.533.930"
+        },
+        {
+          "wallet": "0xfEB5f9DdcDCAEF594E4acaB975798FF9a02340f1",
+          "staked_raw": "15496970044634216861631727",
+          "staked": "15496970.044634216861631727",
+          "staked_human": "15.496.970,044634"
+        },
+        {
+          "wallet": "0x38ce147671E848fF2dEfDe7269Bc1fA8e42E420b",
+          "staked_raw": "4296000000000000000000000",
+          "staked": "4296000.0",
+          "staked_human": "4.296.000"
+        },
+        {
+          "wallet": "0x73752EF0F576B87F25559aCb92112393dc6E1B55",
+          "staked_raw": "2000000000000000000000000",
+          "staked": "2000000.0",
+          "staked_human": "2.000.000"
+        },
+        {
+          "wallet": "0xfBa6F710d4612725b3fBa240D03527e2053714f4",
+          "staked_raw": "882734495270031884004802",
+          "staked": "882734.495270031884004802",
+          "staked_human": "882.734,49527"
+        },
+        {
+          "wallet": "0x602B02968af060fC1c6FF15F0EB4931041ec8cD5",
+          "staked_raw": "415366000000000000000000",
+          "staked": "415366.0",
+          "staked_human": "415.366"
+        },
+        {
+          "wallet": "0x119F3134d9a14aBf1387F39EC4A6Ce2d405bb1AA",
+          "staked_raw": "30000000000000000000000",
+          "staked": "30000.0",
+          "staked_human": "30.000"
+        },
+        {
+          "wallet": "0x5068a059F3d246eB88f32fa7c553BF48E13910e9",
+          "staked_raw": "11192633241773868438433",
+          "staked": "11192.633241773868438433",
+          "staked_human": "11.192,633241"
+        }
+      ],
+      "pool_state": {
+        "reward_token": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+        "apy_basis_points": "777",
+        "max_reward_duration": "31104000",
+        "lock_duration": "0",
+        "lock_staking": false,
+        "allow_restake": true,
+        "total_staked_raw": "39666193173146022614074962",
+        "total_staked": "39666193.173146022614074962",
+        "total_staked_human": "39.666.193,173146",
+        "active": true,
+        "total_staked_minus_sum_raw": "0"
+      }
+    }
+  ],
+  "generated_at": "2026-02-21T07:13:41.943Z"
+}
