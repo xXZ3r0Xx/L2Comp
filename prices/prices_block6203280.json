@@ -1,0 +1,844 @@
+{
+  "ok": true,
+  "chain_id": 3409,
+  "rpc_url": "http://localhost:8545",
+  "snapshot_block": 6203280,
+  "wpepu": "0x4200000000000000000000000000000000000006",
+  "wpepu_meta": {
+    "token_name": "Wrapped Pepe Unchained",
+    "token_symbol": "WPEPU",
+    "token_decimals": 18
+  },
+  "tokens": [
+    {
+      "token_contract": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
+      "symbol_hint": "MATRIX",
+      "symbol": "$MATRIX",
+      "name": "Matrix Frog",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x6706c582bc3E7d38f4E1D010ae0126A01B2771C7",
+          "pool_type": "v3-like",
+          "token0": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "4189970880482645502852648",
+          "token_balance_raw": "611534200315304721286066068",
+          "price_wpepu_per_token": "0.003410355929298637",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xEDC62f83E5d9C752a204d7d569a06Ac74bd57955",
+          "pool_type": "v3-like",
+          "token0": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "106",
+          "token_balance_raw": "11387744828253075042",
+          "price_wpepu_per_token": "0",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xa620Aae9528A62c820d8022c2d82c9136B282d0F",
+          "pool_type": "v3-like",
+          "token0": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "56",
+          "token_balance_raw": "174",
+          "price_wpepu_per_token": "0.005640702764640856",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x6706c582bc3E7d38f4E1D010ae0126A01B2771C7",
+        "pool_type": "v3-like",
+        "token0": "0x2044682dad187456Af1eee1b4E02BBF0A9abc919",
+        "token1": "0x4200000000000000000000000000000000000006",
+        "wpepu_balance_raw": "4189970880482645502852648",
+        "token_balance_raw": "611534200315304721286066068",
+        "price_wpepu_per_token": "0.003410355929298637",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
+      "symbol_hint": "INS",
+      "symbol": "$INS",
+      "name": "INSIDERS",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0xFb1DBEDCF48631E8EB716277C863B0ec5293eeFD",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
+          "wpepu_balance_raw": "1494223412528741212979233",
+          "token_balance_raw": "931105880940160246397744636",
+          "price_wpepu_per_token": "0.000760800980586804",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x52243D13B6367EF460ECe3180Be29110f632d118",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
+          "wpepu_balance_raw": "142",
+          "token_balance_raw": "169",
+          "price_wpepu_per_token": "0.005007650878183726",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0xFb1DBEDCF48631E8EB716277C863B0ec5293eeFD",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xc215f6741E8b3AFcA803d97A6a021E2cD3980020",
+        "wpepu_balance_raw": "1494223412528741212979233",
+        "token_balance_raw": "931105880940160246397744636",
+        "price_wpepu_per_token": "0.000760800980586804",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
+      "symbol_hint": "PXRP",
+      "symbol": "$PXRP",
+      "name": "Pepu XRP",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x1fB2DE12dCeD3C4819578fb016496a2D7471B062",
+          "pool_type": "v3-like",
+          "token0": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "1463720374368213309953720",
+          "token_balance_raw": "748370345054693342176385188",
+          "price_wpepu_per_token": "0.00162489338017133",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x3dD7737fED21429B9dc2CD65F82dBB5df3c4F4c0",
+          "pool_type": "v3-like",
+          "token0": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "29",
+          "token_balance_raw": "35",
+          "price_wpepu_per_token": "0.005219051963321148",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x1fB2DE12dCeD3C4819578fb016496a2D7471B062",
+        "pool_type": "v3-like",
+        "token0": "0x050f3065400f55D68A46ba187Ef78b9ae6E8D088",
+        "token1": "0x4200000000000000000000000000000000000006",
+        "wpepu_balance_raw": "1463720374368213309953720",
+        "token_balance_raw": "748370345054693342176385188",
+        "price_wpepu_per_token": "0.00162489338017133",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
+      "symbol_hint": "PBTC",
+      "symbol": "PBTC",
+      "name": "PepeBitcoin",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x55B739495DA2fD6a9a14661E02Bc82AdCd3a8f76",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
+          "wpepu_balance_raw": "1656780513013063597936781",
+          "token_balance_raw": "771073666522773990715021488",
+          "price_wpepu_per_token": "0.001419684474033541",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xBC00D79ff4224cd38d028a6f0D70BBD7DeeD8EBF",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
+          "wpepu_balance_raw": "33",
+          "token_balance_raw": "44",
+          "price_wpepu_per_token": "0.005727657069621333",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xd06C816D11E0993244f6106ee6B23f8aa2089a18",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
+          "wpepu_balance_raw": "0",
+          "token_balance_raw": "1",
+          "price_wpepu_per_token": "0.500040918299108479",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x55B739495DA2fD6a9a14661E02Bc82AdCd3a8f76",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0x73D070Ec589d9f889FdF3B16fB1B828cecef320b",
+        "wpepu_balance_raw": "1656780513013063597936781",
+        "token_balance_raw": "771073666522773990715021488",
+        "price_wpepu_per_token": "0.001419684474033541",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
+      "symbol_hint": "MRGNBUU",
+      "symbol": "$MRGNBUU",
+      "name": "Margin Buu Coin",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0xbEDA212E61d5465f139d4Efe76B652b217D28f72",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
+          "wpepu_balance_raw": "2000578944828274162635986",
+          "token_balance_raw": "719636155233097830611752347",
+          "price_wpepu_per_token": "0.001778687392398117",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x84a55744CeFcD685D3f86b66a92c3678335e754e",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
+          "wpepu_balance_raw": "75",
+          "token_balance_raw": "93",
+          "price_wpepu_per_token": "0.021201243351903529",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x002A911cabD01518aE5898FA7DaA472cF2Bf57E2",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
+          "wpepu_balance_raw": "37",
+          "token_balance_raw": "50",
+          "price_wpepu_per_token": "0.005000245779017115",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0xbEDA212E61d5465f139d4Efe76B652b217D28f72",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0x62AeA4f3a94f9D8713ef718a60926DA609cB3cB5",
+        "wpepu_balance_raw": "2000578944828274162635986",
+        "token_balance_raw": "719636155233097830611752347",
+        "price_wpepu_per_token": "0.001778687392398117",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
+      "symbol_hint": "GRX",
+      "symbol": "GRX",
+      "name": "GRIXOS",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0xe3e4281b8776D359DeaD81B0553FC19151fDa788",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
+          "wpepu_balance_raw": "943660440531619542843782",
+          "token_balance_raw": "975010559004781544764655974",
+          "price_wpepu_per_token": "0.000633547763217055",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x75146EBfdc55B6cF695CCD79d976Ab8deaE77B44",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
+          "wpepu_balance_raw": "44",
+          "token_balance_raw": "58",
+          "price_wpepu_per_token": "0.005535088334793097",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0xe3e4281b8776D359DeaD81B0553FC19151fDa788",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0x4854D21b4Bf1C54938B8ef5514f44FC9B0C0645F",
+        "wpepu_balance_raw": "943660440531619542843782",
+        "token_balance_raw": "975010559004781544764655974",
+        "price_wpepu_per_token": "0.000633547763217055",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+      "symbol_hint": "SAFE",
+      "symbol": "Safe",
+      "name": "Safeyield Crypto Strategist",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x3BbF15FBaCe1c31a2aA52E2A7c26353e34CAd856",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+          "wpepu_balance_raw": "1383652781129184776211327",
+          "token_balance_raw": "937565126346994683102086281",
+          "price_wpepu_per_token": "0.000735699126206768",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xa43ACFaD13C5ED079c798062DC33A414DFC2cfB5",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+          "wpepu_balance_raw": "95",
+          "token_balance_raw": "114",
+          "price_wpepu_per_token": "0.005024874039577341",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x3BbF15FBaCe1c31a2aA52E2A7c26353e34CAd856",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0x808B7d50900F06f5652686F050009E225463F1Cd",
+        "wpepu_balance_raw": "1383652781129184776211327",
+        "token_balance_raw": "937565126346994683102086281",
+        "price_wpepu_per_token": "0.000735699126206768",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
+      "symbol_hint": "PEPEXAI",
+      "symbol": "PEPEXAI",
+      "name": "PepeX-AI",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0xDda871A8F2ef4815CB40F5B5Cda483E120284f02",
+          "pool_type": "v3-like",
+          "token0": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "912749076548372136086200",
+          "token_balance_raw": "746999977920235228893695193",
+          "price_wpepu_per_token": "0.001401111849645441",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xbb9740c6C09b6Eae64D17E177e74067cf4724B40",
+          "pool_type": "v3-like",
+          "token0": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "104",
+          "token_balance_raw": "152",
+          "price_wpepu_per_token": "0.005012531641388895",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0xDda871A8F2ef4815CB40F5B5Cda483E120284f02",
+        "pool_type": "v3-like",
+        "token0": "0x2F463E89856bba74be01E04afd0E1acfC9479835",
+        "token1": "0x4200000000000000000000000000000000000006",
+        "wpepu_balance_raw": "912749076548372136086200",
+        "token_balance_raw": "746999977920235228893695193",
+        "price_wpepu_per_token": "0.001401111849645441",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
+      "symbol_hint": "BULL",
+      "symbol": "BULL",
+      "name": "Sick Buffalo DAO",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x176d34E165A992dAa3E16e1dC70c7D0Db84C9F4F",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
+          "wpepu_balance_raw": "721746853052188636018178",
+          "token_balance_raw": "944549824435152393202176739",
+          "price_wpepu_per_token": "0.000702098623369923",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x0580454eDB7CE69935980de09F03765303215b20",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
+          "wpepu_balance_raw": "43",
+          "token_balance_raw": "122",
+          "price_wpepu_per_token": "0.005037258480011846",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x176d34E165A992dAa3E16e1dC70c7D0Db84C9F4F",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xDD4986BcE44e40D914101A4769a41E8116258c10",
+        "wpepu_balance_raw": "721746853052188636018178",
+        "token_balance_raw": "944549824435152393202176739",
+        "price_wpepu_per_token": "0.000702098623369923",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
+      "symbol_hint": "DOPE",
+      "symbol": "DOPE",
+      "name": "DogePepe",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x9Fba1aec4e41730859dCCA1977A5bCcC1678E2A2",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
+          "wpepu_balance_raw": "686965216247230393797790",
+          "token_balance_raw": "977829965861214308999968081",
+          "price_wpepu_per_token": "0.000651685619195925",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xc9EC2010c6915336a278ED24D21D1f2f10684438",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
+          "wpepu_balance_raw": "59",
+          "token_balance_raw": "97",
+          "price_wpepu_per_token": "0.005000013366076613",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x0b47ae5AC85e8847105cC7F2007198B56bD5bf46",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
+          "wpepu_balance_raw": "3",
+          "token_balance_raw": "1",
+          "price_wpepu_per_token": "0.000010000011015953",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x9Fba1aec4e41730859dCCA1977A5bCcC1678E2A2",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xe5356f12d30bB3aB0E69E4DCa6abC9Aa6053cd6e",
+        "wpepu_balance_raw": "686965216247230393797790",
+        "token_balance_raw": "977829965861214308999968081",
+        "price_wpepu_per_token": "0.000651685619195925",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
+      "symbol_hint": "FINPEPE",
+      "symbol": "FINPEPE",
+      "name": "Finnish Pepe",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x817C7d441dB4dC3c54CD65E41312f1f00Ea7bf7C",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
+          "wpepu_balance_raw": "598111652142058179749141",
+          "token_balance_raw": "869521242560142497611159977",
+          "price_wpepu_per_token": "0.000841081335748997",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xEf1d255B570B4E1783fAF5C31b97d0AaA3e05436",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
+          "wpepu_balance_raw": "339",
+          "token_balance_raw": "503",
+          "price_wpepu_per_token": "0.00501366626571205",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x817C7d441dB4dC3c54CD65E41312f1f00Ea7bf7C",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xF42aFB01a4a981fA542076D1821A3f6704462ecF",
+        "wpepu_balance_raw": "598111652142058179749141",
+        "token_balance_raw": "869521242560142497611159977",
+        "price_wpepu_per_token": "0.000841081335748997",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
+      "symbol_hint": "LUXURIOUS",
+      "symbol": "LUXURIOUS",
+      "name": "Big Crypto Bull",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x5151869CFcA6c3D38466ED92Fcc74cCEd4962543",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
+          "wpepu_balance_raw": "463076509965160699697508",
+          "token_balance_raw": "985466802964303275754556414",
+          "price_wpepu_per_token": "0.000595944874550887",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x10EE0F7B01D35d248a9C7f9C45Bcb5395a286A83",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
+          "wpepu_balance_raw": "65",
+          "token_balance_raw": "90",
+          "price_wpepu_per_token": "0.005002883228103374",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x5151869CFcA6c3D38466ED92Fcc74cCEd4962543",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0x5C4c9EcAa345d309dE98F1277F809B50747Fc809",
+        "wpepu_balance_raw": "463076509965160699697508",
+        "token_balance_raw": "985466802964303275754556414",
+        "price_wpepu_per_token": "0.000595944874550887",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
+      "symbol_hint": "HORA",
+      "symbol": "HoRa",
+      "name": "HolderRadar",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x72D4D72458FC69F767214aeF08cb90557c753FA9",
+          "pool_type": "v3-like",
+          "token0": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "1572061773567831598325216",
+          "token_balance_raw": "970270162803167203357811043",
+          "price_wpepu_per_token": "0.000731534631420657",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xcC386604b985a5cA9cE38777Db0B9483664b2936",
+          "pool_type": "v3-like",
+          "token0": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "133",
+          "token_balance_raw": "228",
+          "price_wpepu_per_token": "0.005003370682048498",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x72D4D72458FC69F767214aeF08cb90557c753FA9",
+        "pool_type": "v3-like",
+        "token0": "0x40Cb1755a9Cc445b1413F6Dd9B55bFcd8EA3Bc94",
+        "token1": "0x4200000000000000000000000000000000000006",
+        "wpepu_balance_raw": "1572061773567831598325216",
+        "token_balance_raw": "970270162803167203357811043",
+        "price_wpepu_per_token": "0.000731534631420657",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
+      "symbol_hint": "FZLA",
+      "symbol": "$FZLA",
+      "name": "FROGZILLA",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x2321b63de29897361f8776FBE917FcE7719f262e",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
+          "wpepu_balance_raw": "917653130251728803461416",
+          "token_balance_raw": "950791383136337215271155266",
+          "price_wpepu_per_token": "0.000741117009655558",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0xcAA9C47e4198Aa0d16F5B8E08a7098136859C58c",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
+          "wpepu_balance_raw": "315",
+          "token_balance_raw": "368",
+          "price_wpepu_per_token": "0.005092666754246393",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x2321b63de29897361f8776FBE917FcE7719f262e",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xa1aB0992Ff06dDd41635bde5b53C3b61Fd95f81F",
+        "wpepu_balance_raw": "917653130251728803461416",
+        "token_balance_raw": "950791383136337215271155266",
+        "price_wpepu_per_token": "0.000741117009655558",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+      "symbol_hint": "ESCAPE",
+      "symbol": "ESCAPE",
+      "name": "ESCAPE",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x63C0dc95866cD72E5Eee74682Cd3027EE9dF33b6",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+          "wpepu_balance_raw": "16953813748188542389979819",
+          "token_balance_raw": "538605398403244240128632866",
+          "price_wpepu_per_token": "0.00547008191519928",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x4d9007F286Ef026BD1dc6e55915990A09d1A9F79",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+          "wpepu_balance_raw": "11722075916871416663510",
+          "token_balance_raw": "182",
+          "price_wpepu_per_token": "340256786540325221128184995839410440609.792047863013514991",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x93484AcAD6D3EDc17161a2f83c011bE13EC0EB38",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+          "wpepu_balance_raw": "60",
+          "token_balance_raw": "112",
+          "price_wpepu_per_token": "0.005038395003094415",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x6fC64ff78a5696D6AC805aa6729e90B5BcB7c83B",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+          "wpepu_balance_raw": "12",
+          "token_balance_raw": "12",
+          "price_wpepu_per_token": "0.046990420804402334",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x63C0dc95866cD72E5Eee74682Cd3027EE9dF33b6",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0x94948B4800870b4Ec877f75E391d04c10f2b1C28",
+        "wpepu_balance_raw": "16953813748188542389979819",
+        "token_balance_raw": "538605398403244240128632866",
+        "price_wpepu_per_token": "0.00547008191519928",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0x0e26f8861A53506A6395004360306d63b9B85F45",
+      "symbol_hint": "PLOUNGE",
+      "symbol": "$PLOUNGE",
+      "name": "Pepe's Lounge",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0xe110837c555486082080BF243509ad47BEA54519",
+          "pool_type": "v3-like",
+          "token0": "0x0e26f8861A53506A6395004360306d63b9B85F45",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "2386688453234791287821399",
+          "token_balance_raw": "919711369100775489382713202",
+          "price_wpepu_per_token": "0.000780718570428887",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x08c92d09dfB28ADFF2250a68Cd18c284af47349a",
+          "pool_type": "v3-like",
+          "token0": "0x0e26f8861A53506A6395004360306d63b9B85F45",
+          "token1": "0x4200000000000000000000000000000000000006",
+          "wpepu_balance_raw": "38",
+          "token_balance_raw": "49",
+          "price_wpepu_per_token": "0.005005831786889374",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0xe110837c555486082080BF243509ad47BEA54519",
+        "pool_type": "v3-like",
+        "token0": "0x0e26f8861A53506A6395004360306d63b9B85F45",
+        "token1": "0x4200000000000000000000000000000000000006",
+        "wpepu_balance_raw": "2386688453234791287821399",
+        "token_balance_raw": "919711369100775489382713202",
+        "price_wpepu_per_token": "0.000780718570428887",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
+      "symbol_hint": "HOTDOG",
+      "symbol": "HotDog",
+      "name": "HotDog",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x981cef91A1800823BBb3e5686afD64515f201e12",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
+          "wpepu_balance_raw": "846195570793616492801696",
+          "token_balance_raw": "969092818172803000261246802",
+          "price_wpepu_per_token": "0.000667956293915854",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x2085D30a6Edfc740F32bB28432F5beF2E438739D",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
+          "wpepu_balance_raw": "66",
+          "token_balance_raw": "92",
+          "price_wpepu_per_token": "0.00508249564293237",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x981cef91A1800823BBb3e5686afD64515f201e12",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xFDe1eF4256eA00E146CD736D7ef48aD92FBCAB4b",
+        "wpepu_balance_raw": "846195570793616492801696",
+        "token_balance_raw": "969092818172803000261246802",
+        "price_wpepu_per_token": "0.000667956293915854",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
+      "symbol_hint": "DOT",
+      "symbol": "$DOT",
+      "name": "DotPointDot",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x5ca4c1Ba9e79090b60635f40e6D4EdB490E337B9",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
+          "wpepu_balance_raw": "486300307328304475421605",
+          "token_balance_raw": "995555531449631805300408160",
+          "price_wpepu_per_token": "0.000577698040779335",
+          "price_method": "v3.slot0"
+        },
+        {
+          "pool": "0x04ac49EDd40B8B463b7518A426AE6da000ecC48E",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
+          "wpepu_balance_raw": "50",
+          "token_balance_raw": "58",
+          "price_wpepu_per_token": "0.005033048172875422",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x5ca4c1Ba9e79090b60635f40e6D4EdB490E337B9",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xdF7452D93F24EBDDCc004b949E0Ec1c021803A14",
+        "wpepu_balance_raw": "486300307328304475421605",
+        "token_balance_raw": "995555531449631805300408160",
+        "price_wpepu_per_token": "0.000577698040779335",
+        "price_method": "v3.slot0"
+      }
+    },
+    {
+      "token_contract": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+      "symbol_hint": "777",
+      "symbol": "$777",
+      "name": "$777",
+      "decimals": 18,
+      "wpepu_reference": "0x4200000000000000000000000000000000000006",
+      "wpepu_decimals": 18,
+      "candidate_pools": [
+        {
+          "pool": "0x794d028f1c8D3A59CcD3adCcc5eCb8baB81E22A6",
+          "pool_type": "v3-like",
+          "token0": "0x4200000000000000000000000000000000000006",
+          "token1": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+          "wpepu_balance_raw": "3126",
+          "token_balance_raw": "2839",
+          "price_wpepu_per_token": "0.012394898478409694",
+          "price_method": "v3.slot0"
+        }
+      ],
+      "best_pool": {
+        "pool": "0x794d028f1c8D3A59CcD3adCcc5eCb8baB81E22A6",
+        "pool_type": "v3-like",
+        "token0": "0x4200000000000000000000000000000000000006",
+        "token1": "0xb029F69E382C9d55eB24AD924A52e74CB7079a91",
+        "wpepu_balance_raw": "3126",
+        "token_balance_raw": "2839",
+        "price_wpepu_per_token": "0.012394898478409694",
+        "price_method": "v3.slot0"
+      }
+    }
+  ],
+  "generated_at": "2026-02-21T07:16:46.845Z"
+}
